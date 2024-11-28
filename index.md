@@ -1,7 +1,7 @@
 
-<br></br>
-
 > [[ Versione Italiana qui ]](/ita_index.md)
+
+<br>
 
 
 # About me
@@ -18,7 +18,7 @@ My Resume/CV: [here](./assets/pdf/francesco_degno_resume)
 | `Intermediate` | C#        | Unity         |
 | `Beginner`     | C++       | Unreal Engine |
 
-<br></br>
+<br>
 
 # Projects
 
@@ -52,8 +52,8 @@ _Spaceships' Threat_ is a small arcade 3D videogame that includes [
 
 A small game under development about counting sheep before sleeping, inspired by the act of sheep counting and the cartoon representation
 
-<br></br>
+<br>
 
 ### Contacts
 
-> E-mail: franc.degno@gmail.com
+> E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com)
