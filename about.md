@@ -28,9 +28,9 @@ elim{
         - Consider your audience
  -->
 
-> [[ < Main portfolio ]](./index) <span style="float: right;">[[Vers. ITA]](./ita_about)</span>
+> [[ < Main portfolio ]](./) <span style="float: right;">[[Vers. ITA]](./ita_about)</span>
 
-<button onclick="./index.md">&rarr; Test &larr;</button>
+<button onclick="./.md">&rarr; Test &larr;</button>
 
 <!--<br>-->
 
@@ -64,6 +64,7 @@ Normal text.
 
 ## Personal interests
 
+<!-- FIXME: expand -->
 My main interest are art and STEM subjects, more specifically pixel-art and 
 
 Normal text.

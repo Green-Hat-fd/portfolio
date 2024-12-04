@@ -1,6 +1,6 @@
 
 subpage
 
-> [[ English version here ]](/index)
+> [[ English version here ]](./)
 
 <br>

@@ -113,7 +113,7 @@ _Glyph Seeker_ is a 3D first person action game where the main character has 4 t
 - 4 different types of shooting abilities (runes)
     - I worked mainly on the blue one, the Shield, and offered help to the purple one, the Dematerializer
 - A complex saving system, but not implemented due to the little time the team had
-    - [[Here]]([./index](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs)) is the code
+    - [[Here]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs) is the code
 
 <br>
 
