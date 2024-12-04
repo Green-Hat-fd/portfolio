@@ -1,5 +1,5 @@
 
-<span style="float:right;">[[ Versione Italiana qui ]](/ita_index)</span>
+<span style="float:right;">[[ Versione Italiana qui ]](./ita_index)</span>
 
 <br>
 
@@ -12,7 +12,10 @@ I've studied Game Development and Game design at the Nautilus Academy, now I'm d
 
 <!-- Game Development and Game design, which  game development and game design -->
 
-My Resume/CV: [[here]](./assets/pdf/TEST_francesco_degno_resume.pdf "Click to download my Resume / CV")  <text style="float:right;">[[More in-depth page]](/about.md)</text>
+More in-depth page: [[About me]](./about "Go to the &quot;About me&quot; page &rarr;")
+
+
+My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
 
 
 ### &ensp; Programming Skills
@@ -32,16 +35,25 @@ My Resume/CV: [[here]](./assets/pdf/TEST_francesco_degno_resume.pdf "Click to do
 <!-- FIXME: F4L screen -->
 ~~![F4L screenshot](Images here)~~
 
-- Main programmer
-- Game Designer
+| Roles           |
+|-----------------|
+| Main programmer |
+| Game Designer   |
 
 _Fight 4 Life_ is a 2D survival indie game where the sun is a deadly laser and 4 characters find themselves in a subway, trying to find safety from the heat. Your job is to keep them alive, rationing all the resources, explore the outside of a station at night and fight if necessary.
 
 <!-- TODO: Features for ALL games -->
-**_Features_**
+**_Feature(s)_**
 
-- A minigame , the Minig-aim
-- 
+- A sliding minigame – the Minig-aim
+    - Used in a fight to defend against bad guys
+    - Every weapon type determines the style of sliding
+- All stations have different types of resources
+- Adaptive music
+    - Changes if a character is out exploring or not
+    - Becomes more intense in fights
+- 2 languages (Italian & English)
+- 2 endings
 
 * * *
 
@@ -50,11 +62,19 @@ _Fight 4 Life_ is a 2D survival indie game where the sun is a deadly laser and 4
 <!-- FIXME: ST screen -->
 ~~![ST screenshot](Images here)~~
 
-- Main Programmer
-- Designer
-- Artist 
+| Roles           |
+|-----------------|
+| Main programmer |
+| Game Designer   |
+| Artist          |
 
-_Spaceships' Threat_ is a small arcade 3D videogame that includes _____
+_Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability.
+
+**_Feature(s)_**
+
+- A saving system (saves the current currency and options)
+- Power-ups that will apply to the ship
+- Replayability: defeat enemies to earn more Scraps (currency) and upgrade your ship to become better at defeating them
 
 * * *
 
@@ -65,24 +85,35 @@ _Spaceships' Threat_ is a small arcade 3D videogame that includes _____
 
 A small game under development about counting sheep before sleeping, inspired by the act of sheep counting and the cartoon representation
 
-* * *
+**_Feature(s)_**
 
-<!-- FIXME: rename -->
-## Made in Academy
+- A sliding minigame with a cute sheep which will make the character fall asleep
 
-&emsp; &emsp; <sub>(Nautilus Academy Copyright)</sub>
+
+## Academy work
+
+&emsp; &emsp; <sup>(Nautilus Academy Copyright)</sup>
 
 ### &ensp; _Glyph Seeker_
 
 <!-- FIXME: GlS screen -->
 ~~![GlS screenshot](Images here)~~
 
-- Programmer
-- Designer
+| Roles         |
+|---------------|
+| Programmer    |
+| Game Designer |
 
-<!-- FIXME: GlS desc -->
-_Glyph Seeker_ is a 3D first person action game where you have 4 abilities and need to use them.
-This game was made in the Academy I studied on
+_Glyph Seeker_ is a 3D first person action game where the main character has 4 types of runes, each one has a different type of shooting ability (specifically: _Electric_, _Explosive_, _Shield_ and _Dematerializer_). She will use those abilitis to solve puzzles and make her way out from all enemies.
+
+&ensp; &ensp; (This game is a work made with other people while I was studying in the Academy)
+
+**_Feature(s)_**
+
+- 4 different types of shooting abilities (runes)
+    - I worked mainly on the blue one, the Shield, and offered help to the purple one, the Dematerializer
+- A complex saving system, but not implemented due to the little time the team had
+    - [[Here]]([./index](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs)) is the code
 
 <br>
 
@@ -91,4 +122,4 @@ This game was made in the Academy I studied on
 
 > E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com "Click to email me!")
 
-> [[ Resume/CV ]](./assets/pdf/TEST_francesco_degno_resume.pdf "Click to download my Resume / CV")
+> [[ Resume/CV ]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")

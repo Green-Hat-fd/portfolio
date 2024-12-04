@@ -28,7 +28,9 @@ elim{
         - Consider your audience
  -->
 
-> [[ < Main portfolio ]](/index.md) <span style="float: right;">[[Vers. ITA]](/ita_about.md)</span>
+> [[ < Main portfolio ]](./index) <span style="float: right;">[[Vers. ITA]](./ita_about)</span>
+
+<button onclick="./index.md">&rarr; Test &larr;</button>
 
 <!--<br>-->
 
@@ -40,7 +42,7 @@ Hi, I'm Francesco, I'm a junior italian programmer who's just finished his studi
 
 <elim>Other</elim>
 
-> Download my Resume/CV &ensp; [[here]](./assets/pdf/TEST_francesco_degno_resume.pdf "Click to download my Resume / CV")
+> Download my Resume/CV &ensp; [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
 
 
 ## Education background
