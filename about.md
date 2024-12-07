@@ -30,7 +30,7 @@ elim{
 
 > [[ < Main portfolio ]](./) <span style="float: right;">[[Vers. ITA]](./ita_about)</span>
 
-<button onclick="./.md">&rarr; Test &larr;</button>
+<button onclick="/index.md">&rarr; Test &larr;</button>
 
 <!--<br>-->
 
@@ -38,7 +38,7 @@ elim{
 <h1 style="text-align: center;">About me</h1>
 
 <!-- FIXME -->
-Hi, I'm Francesco, I'm a junior italian programmer who's just finished his studies and now I'm looking for a job in the (video)game industry.
+Hi, I'm Francesco, I'm a junior italian programmer who's just finished his studies and who's now looking for a job in the (video)game industry.
 
 <elim>Other</elim>
 

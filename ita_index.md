@@ -1,6 +1,125 @@
 
-subpage
-
-> [[ English version here ]](./)
+<span style="float:right;">[[ English versione here ]](./)</span>
 
 <br>
+
+
+<!-- TODO: Tradurre la pagina -->
+# Chi sono
+Ciao, sono Francesco, sono un programmatore junior che sta cercando un lavoro nell'industria dei (video)giochi.
+
+Ho studiato Game Development & Game design alla Nautilus Academy, <!-- BUG: trova cosa mettere in mezzo --> mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un gioco [piccolo] basato sul contare le pecore prima di addormentarsi.
+
+Pagina più estesa: [[Chi sono]](./ita_about.md "Vai alla pagina &quot;Chi sono&quot; &rarr;")
+
+
+Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio CV")
+
+
+### &ensp; Conoscenze di programmazione
+
+| Livello        | Lingue | Game Engine   |
+|----------------|--------|---------------|
+| `Intermedio`   | C#     | Unity         |
+| `Principiante` | C++    | Unreal Engine |
+
+<br>
+
+
+# Progetti
+
+### &emsp; Fight 4 Life
+
+~~![F4L screenshot](Images here)~~
+
+| Ruoli                    |
+|--------------------------|
+| Programmatore principale |
+| Game Designer            |
+
+_Fight 4 Life_ è un gioco survival indie in 2D dove la temperatura del sole è oltre le stelle e 4 personaggi si trovano intrappolati dentro una stazione della metro, mentre provano a trovare riparo dal calore.
+Il compito del giocatore è quello di tenerli in vita, dividere le risorse, esplorare nottetempo l'esterno di una stazione e lottare qualora fosse necessario.
+
+**_Feature_**
+
+- Un minigame con una barra a scorrimento – il Mira-game
+    - Usato nelle lotte per difenderti contro i brutti ceffi
+    - Ogni arma determina lo stile di movimento della barra
+- In ogni stazione si trovano un tipo diverso di risorse
+- Musica dinamica
+    - Cambia se c'è un personaggio in esplorazione o no
+    - Diventa più intensa nelle lotte
+- 2 lingue (italiano & inglese)
+- 2 finali
+
+* * *
+
+### &emsp; Spaceships' Threat
+
+~~![ST screenshot](Images here)~~
+
+| Ruoli                    |
+|--------------------------|
+| Programmatore principale |
+| Game Designer            |
+| Artista                  |
+
+_Spaceships' Threat_ è un piccolo gioco arcade in 3D che si basa su azioni rapide e rigiocabilità. Giochi nei panni del cattivo, il quale vuole conquistare l'universo a tutti i costi distruggendo tutte le astronavi dei "buoni", raccogliere i loro Rottami e usarli per migliorare la sua astronave, per conquistare meglio l'intero universo!
+
+**_Feature_**
+
+- Un sistema di salvataggio (salva la quantità di valuta corrente e le opzioni)
+- Miglioramenti (Power-up) che verranno applicati all'astronave
+- Rigiocabilità: sconfiggi "i buoni" per guadagnare più Rottami (la valuta) e potenzia la tua astronave per poterli sconfiggere meglio
+
+* * *
+
+### &emsp; Going to Sleep
+
+~~![G2S screenshot](Images here)~~
+
+Un piccolo gioco in sviluppo che si basa sul contare le pecore prima di addormentarsi, ispirato dall'atto del contare le pecore e dalla sua rappresentazione nei cartoni animati.
+
+**_Feature_**
+
+- Un minigame con una barra scorrevole che ha una piccola pecora che aiuterà ad addormentare il personaggio principale
+
+
+## Lavoro in accademia
+
+&emsp; &emsp; <sup>(Nautilus Academy Copyright)</sup>
+
+### &ensp; _Glyph Seeker_
+
+~~![GlS screenshot](Images here)~~
+
+| Ruoli         |
+|---------------|
+| Programmatore |
+| Game Designer |
+
+_Glyph Seeker_ è un gioco in 3D in prima persona dove il personaggio principale ha 4 tipi diversi di rune, ognuna con la sua abilità di tiro (in particolare: _Elettrica_, _Esplosiva_, _Scudo_ e _Smaterializzatore_). Lei dovrà usare le suddette rune per risolvere puzzle e farsi strada tra tutti i nemici che potrà incontrare.
+
+&ensp; &ensp; (Questo gioco è stato realizzato con altre persone mentre stavo studiando nell'accademia)
+
+**_Feature_**
+
+- 4 tipi diversi di abilità di tiro (le rune)
+    - Io ho lavorato principalmente sulla runa blu, lo Scudo, e mi sono offerto nel lavorare anche su quella viola, lo Smaterializzatore
+- Un sistema di salvataggio complesso, ma non implementato dato il poco tempo a disposizione
+    - Il codice lo si può trovare [[Qui]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs)
+
+* * *
+
+### &ensp; _Global Game Jam 2024_
+
+<!-- All of the ggj 2024 + 2023 -->
+
+<br>
+
+
+### Contatti
+
+> E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com "Clicca per mandarmi un'email!")
+
+> [[ Curriculum / CV ]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio Curriculum (CV)")

@@ -40,9 +40,8 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to downloa
 | Main programmer |
 | Game Designer   |
 
-_Fight 4 Life_ is a 2D survival indie game where the sun is a deadly laser and 4 characters find themselves in a subway, trying to find safety from the heat. Your job is to keep them alive, rationing all the resources, explore the outside of a station at night and fight if necessary.
+_Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4 characters find themselves in a subway, trying to find safety from the heat. Your job is to keep them alive, rationing all the resources, explore the outside of a station at night and fight if necessary.
 
-<!-- TODO: Features for ALL games -->
 **_Feature(s)_**
 
 - A sliding minigame – the Minig-aim
@@ -51,7 +50,7 @@ _Fight 4 Life_ is a 2D survival indie game where the sun is a deadly laser and 4
 - All stations have different types of resources
 - Adaptive music
     - Changes if a character is out exploring or not
-    - Becomes more intense in fights
+    - Becomes more tense in fights
 - 2 languages (Italian & English)
 - 2 endings
 
@@ -68,13 +67,13 @@ _Fight 4 Life_ is a 2D survival indie game where the sun is a deadly laser and 4
 | Game Designer   |
 | Artist          |
 
-_Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability.
+_Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability. You are the villain, who wants to conquer the universe by defeating all "good" spaceships, collects their Scraps and use them to upgrade their ship, so they can conquer better and stronger! 
 
 **_Feature(s)_**
 
 - A saving system (saves the current currency and options)
 - Power-ups that will apply to the ship
-- Replayability: defeat enemies to earn more Scraps (currency) and upgrade your ship to become better at defeating them
+- Replayability: defeat "the good guys" to earn more Scraps (currency) and upgrade your ship to become better at defeating them
 
 * * *
 
@@ -83,7 +82,7 @@ _Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action
 <!-- FIXME: G2S screen -->
 ~~![G2S screenshot](Images here)~~
 
-A small game under development about counting sheep before sleeping, inspired by the act of sheep counting and the cartoon representation
+A small game under development about counting sheep before sleeping, inspired by the act of sheep counting and the cartoon representation.
 
 **_Feature(s)_**
 
@@ -111,9 +110,15 @@ _Glyph Seeker_ is a 3D first person action game where the main character has 4 t
 **_Feature(s)_**
 
 - 4 different types of shooting abilities (runes)
-    - I worked mainly on the blue one, the Shield, and offered help to the purple one, the Dematerializer
+    - I worked mainly on the blue one, the Shield, and offered to help on the purple one, the Dematerializer
 - A complex saving system, but not implemented due to the little time the team had
     - [[Here]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs) is the code
+
+* * *
+
+### &ensp; _Global Game Jam 2024_
+
+<!-- HACK: All of the ggj 2024 + 2023 -->
 
 <br>
 
