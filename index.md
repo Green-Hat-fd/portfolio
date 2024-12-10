@@ -1,3 +1,10 @@
+<style>
+screenshot_img{
+    background-color: darkred;
+    margin: 100px;
+    border: 3px solid #73AD21;
+}
+</style>
 
 <span style="float:right;">[[ Versione Italiana qui ]](./ita_index)</span>
 
@@ -32,8 +39,8 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to downloa
 
 ### &emsp; Fight 4 Life
 
-<!-- FIXME: F4L screen -->
-~~![F4L screenshot](Images here)~~
+<img alt="F4L screenshot" src="./assets/images/screenshots/F4L-screen.jpg" width=47.5%>
+<img alt="F4L carousel (GIF)" src="./assets/images/screenshots/F4L-carousel.gif" width=47.5%>
 
 | Roles           |
 |-----------------|
@@ -44,7 +51,7 @@ _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4
 
 **_Feature(s)_**
 
-- A sliding minigame – the Minig-aim
+- A sliding minigame &ndash; the Minig-aim
     - Used in a fight to defend against bad guys
     - Every weapon type determines the style of sliding
 - All stations have different types of resources
@@ -58,8 +65,8 @@ _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4
 
 ### &emsp; Spaceships' Threat
 
-<!-- FIXME: ST screen -->
-~~![ST screenshot](Images here)~~
+<img alt="ST screenshot" src="./assets/images/screenshots/ST-screen.JPG" width=47.5% margin=100%>
+<img alt="ST carousel (GIF)" src="./assets/images/screenshots/ST-carousel.gif" width=47.5%>
 
 | Roles           |
 |-----------------|
@@ -79,14 +86,16 @@ _Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action
 
 ### &emsp; Going to Sleep
 
-<!-- FIXME: G2S screen -->
-~~![G2S screenshot](Images here)~~
+<!-- TODO: G2S screen -->
+<!-- ~~![G2S screenshot](Images here)~~ -->
 
 A small game under development about counting sheep before sleeping, inspired by the act of sheep counting and the cartoon representation.
 
 **_Feature(s)_**
 
 - A sliding minigame with a cute sheep which will make the character fall asleep
+
+* * *
 
 
 ## Academy work
@@ -96,7 +105,7 @@ A small game under development about counting sheep before sleeping, inspired by
 ### &ensp; _Glyph Seeker_
 
 <!-- FIXME: GlS screen -->
-~~![GlS screenshot](Images here)~~
+<!--~~![GlS screenshot](Images here)~~-->
 
 | Roles         |
 |---------------|
@@ -114,11 +123,14 @@ _Glyph Seeker_ is a 3D first person action game where the main character has 4 t
 - A complex saving system, but not implemented due to the little time the team had
     - [[Here]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs) is the code
 
-* * *
+### &ensp; _Other projects I've worked on_
 
-### &ensp; _Global Game Jam 2024_
-
-<!-- HACK: All of the ggj 2024 + 2023 -->
+- _Global Game Jam 2024_
+    - Roles: programmer
+    - [[Game link]](https://globalgamejam.org/games/2024/clowning-around-9 "Clowning Around")
+- _Global Game Jam 2023_
+    - Roles: main programmer, game designer
+    - [[Game link]](https://v3.globalgamejam.org/2023/games/lost-seed-4 "The Lost Seed")
 
 <br>
 

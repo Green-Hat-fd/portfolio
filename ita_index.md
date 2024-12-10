@@ -4,13 +4,12 @@
 <br>
 
 
-<!-- TODO: Tradurre la pagina -->
 # Chi sono
 Ciao, sono Francesco, sono un programmatore junior che sta cercando un lavoro nell'industria dei (video)giochi.
 
-Ho studiato Game Development & Game design alla Nautilus Academy, <!-- BUG: trova cosa mettere in mezzo --> mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un gioco [piccolo] basato sul contare le pecore prima di addormentarsi.
+Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un gioco [piccolo] basato sul contare le pecore prima di addormentarsi.
 
-Pagina più estesa: [[Chi sono]](./ita_about.md "Vai alla pagina &quot;Chi sono&quot; &rarr;")
+Pagina più estesa: [[Chi sono]](./ita_about "Vai alla pagina &quot;Chi sono&quot; &rarr;")
 
 
 Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio CV")
@@ -42,7 +41,7 @@ Il compito del giocatore è quello di tenerli in vita, dividere le risorse, espl
 
 **_Feature_**
 
-- Un minigame con una barra a scorrimento – il Mira-game
+- Un minigame con una barra a scorrimento &ndash; il Mira-game
     - Usato nelle lotte per difenderti contro i brutti ceffi
     - Ogni arma determina lo stile di movimento della barra
 - In ogni stazione si trovano un tipo diverso di risorse

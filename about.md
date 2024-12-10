@@ -14,10 +14,12 @@ elim{
         [ ]: outwards skills (like drawing or puzzle solving(?))
     [ ]: perchè fai questo? motivazioni, passioni...
         [ ]: includi anche i tuoi interessi
+        - Puoi anche dire che ti metti a tradurre i testi di canzoni e dialoghi / oggetti, cercando di adattare al miglior dei modi (mantenendo la metrica per le canzoni e mantenendo lo spirito/battute originali nei dialoghi o oggetti)
 
     ## Nella bio allungata
     [ ]: giochi preferiti, stili/generi che ti interessano di più
     [ ]: espandi i punti nella bio stretta
+    [ ] cose già presenti nel CV
     
     Cose da ricordare
         1. What you do
@@ -37,7 +39,7 @@ elim{
 <!-- # ABOUT ME -->
 <h1 style="text-align: center;">About me</h1>
 
-<!-- FIXME -->
+<!-- FIXME: small bio -->
 Hi, I'm Francesco, I'm a junior italian programmer who's just finished his studies and who's now looking for a job in the (video)game industry.
 
 <elim>Other</elim>
@@ -65,6 +67,13 @@ Normal text.
 ## Personal interests
 
 <!-- FIXME: expand -->
-My main interest are art and STEM subjects, more specifically pixel-art and 
+My main interest are art and STEM subjects, more specifically pixel-art, math (mathemathics), physics and &ndash; of course &ndash; technology
 
-Normal text.
+<!-- BUG: normal text --> Normal text.
+
+### &emsp; Hobbies
+
+I usually translate some english text or songs in italian in my free time, staying inside the rhythm and trying to maintain the original meaning at the same time.
+<!-- ti metti a tradurre i testi di canzoni e dialoghi / oggetti, cercando di adattare al miglior dei modi (mantenendo la metrica per le canzoni e mantenendo lo spirito/battute originali nei dialoghi o oggetti) -->
+
+Art is always been an hobby of mine, especially pixel-art
