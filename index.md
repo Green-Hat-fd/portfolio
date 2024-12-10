@@ -39,8 +39,8 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to downloa
 
 ### &emsp; Fight 4 Life
 
-<img alt="F4L screenshot" src="assets/images/screenshots/F4L-screen.jpg" width=47.5%>
-<img alt="F4L carousel (GIF)" src="assets/images/screenshots/F4L-carousel.gif" width=47.5%>
+<img alt="F4L screenshot" src="assets/images/screenshots/F4L-screen.jpg" width=47.5% height=47.5%>
+<img alt="F4L carousel (GIF)" src="assets/images/screenshots/F4L-carousel.gif" width=47.5% height=47.5%>
 
 | Roles           |
 |-----------------|
@@ -65,8 +65,8 @@ _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4
 
 ### &emsp; Spaceships' Threat
 
-<img alt="ST screenshot" src="assets/images/screenshots/ST-screen.JPG" width=47.5% margin=100%>
-<img alt="ST carousel (GIF)" src="assets/images/screenshots/ST-carousel.gif" width=47.5%>
+<img alt="ST screenshot" src="assets/images/screenshots/ST-screen.JPG" width=47.5% height=47.5%>
+<img alt="ST carousel (GIF)" src="assets/images/screenshots/ST-carousel.gif" width=47.5% height=47.5%>
 
 | Roles           |
 |-----------------|
