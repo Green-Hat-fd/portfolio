@@ -71,7 +71,7 @@ _Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action
 
 **_Feature(s)_**
 
-- A saving system (saves the current currency and options)
+- A self-made saving system (saves the current currency and options)
 - Power-ups that will apply to the ship
 - Replayability: defeat "the good guys" to earn more Scraps (currency) and upgrade your ship to become better at defeating them
 
@@ -99,6 +99,11 @@ A small game under development about counting sheep before sleeping, inspired by
 
 <!-- FIXME: GlS screen -->
 <!--~~![GlS screenshot](Images here)~~-->
+<img alt="GlS screenshot" src="./assets/images/screenshots/GlS-screen.jpg" width="47.5%">
+<img alt="GlS concept art" src="./assets/images/screenshots/GlS-concept-art.JPG" width="40%">
+
+<sup>(Left: game screenshot; Right: concept art of the game)</sup>
+
 
 | Roles         |
 |---------------|
@@ -113,10 +118,10 @@ _Glyph Seeker_ is a 3D first person action game where the main character has 4 t
 
 - 4 different types of shooting abilities (runes)
     - I worked mainly on the blue one, the Shield, and offered to help on the purple one, the Dematerializer
-- A complex saving system, but not implemented due to the little time the team had
+- A complex saving system (it was self-made, included with encryption), but not implemented due to the little time the team had
     - [[Here]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs) is the code
 
-### &ensp; _Other projects I've worked on_
+### _Other projects I've worked on_
 
 - _Global Game Jam 2024_
     - Roles: programmer
