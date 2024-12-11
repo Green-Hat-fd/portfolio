@@ -100,7 +100,7 @@ A small game under development about counting sheep before sleeping, inspired by
 <!-- FIXME: GlS screen -->
 <!--~~![GlS screenshot](Images here)~~-->
 <img alt="GlS screenshot" src="./assets/images/screenshots/GlS-screen.jpg" width="47.5%">
-<img alt="GlS concept art" src="./assets/images/screenshots/GlS-concept-art.JPG" width="40%">
+<img alt="GlS concept art" src="./assets/images/screenshots/GlS-concept-art.jpg" width="40%">
 
 <sup>(Left: game screenshot; Right: concept art of the game)</sup>
 
