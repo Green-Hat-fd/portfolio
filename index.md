@@ -4,7 +4,7 @@
 <br>
 
 
-<span style="padding:0.5em; background-color:#fca205; color:black;">**[ &#9888; WIP ]**</span>
+<span style="padding:0.5em; background-color:orange; color:black;">**[ &#9888; WIP ]**</span>
 
 <!-- TODO: About me -->
 # About me 
@@ -42,7 +42,7 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to downloa
 | Main programmer |
 | Game Designer   |
 
-_Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4 characters find themselves in a subway, trying to find safety from the heat. Your job is to keep them alive, rationing all the resources, explore the outside of a station at night and fight if necessary.
+_Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4 characters find themselves in a subway, trying to find safety from the heat. The player's job is to keep them alive, rationing all the resources, explore the outside of a station at night and fight if necessary.
 
 **_Feature(s)_**
 
@@ -69,12 +69,12 @@ _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4
 | Game Designer   |
 | Main Artist     |
 
-_Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability. You are the villain, who wants to conquer the universe by defeating all "good" spaceships, collects their Scraps and use them to upgrade their ship, so they can conquer better and stronger! 
+_Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability. You are the villain, who wants to conquer the universe by defeating all spaceships of the  "good guys", collects their Scraps and use them to upgrade their ship, to conquer better and stronger! 
 
 **_Feature(s)_**
 
 - A self-made saving system (saves the current currency and options)
-- Power-ups that will apply to the ship
+- Power-ups that can be applied to the ship
 - Replayability: defeat "the good guys" to earn more Scraps (currency) and upgrade your ship to become better at defeating them
 
 * * *
@@ -97,7 +97,7 @@ A small game under development about counting sheep before sleeping, inspired by
 
 &emsp; &emsp; <sup>(Nautilus Academy Copyright)</sup>
 
-### &ensp; _Glyph Seeker_
+### &ensp; _GlyphSeeker_
 
 <!-- FIXME: GlS screen -->
 <!--~~![GlS screenshot](Images here)~~-->
@@ -112,7 +112,7 @@ A small game under development about counting sheep before sleeping, inspired by
 | Programmer    |
 | Game Designer |
 
-_Glyph Seeker_ is a 3D first person action game where the main character has 4 types of runes, each one has a different type of shooting ability (specifically: _Electric_, _Explosive_, _Shield_ and _Dematerializer_). She will use those abilitis to solve puzzles and make her way out from all enemies.
+_GlyphSeeker_ is a 3D first person action game where the main character has 4 types of runes, each one has a different type of shooting ability (specifically: _Electric_, _Explosive_, _Shield_ and _Dematerializer_). She will use those abilitis to solve puzzles and make her way out from all enemies.
 
 &ensp; &ensp; (This game is a work made with other people while I was studying in the Academy)
 
@@ -126,10 +126,10 @@ _Glyph Seeker_ is a 3D first person action game where the main character has 4 t
 ### _Other projects I've worked on_
 
 - _Global Game Jam 2024_
-    - Roles: programmer
+    - Role(s): programmer
     - [[Game link]](https://globalgamejam.org/games/2024/clowning-around-9 "Clowning Around")
 - _Global Game Jam 2023_
-    - Roles: main programmer, game designer
+    - Role(s): main programmer, game designer
     - [[Game link]](https://v3.globalgamejam.org/2023/games/lost-seed-4 "The Lost Seed")
 
 <br>

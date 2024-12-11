@@ -3,10 +3,10 @@
 
 <br>
 
-<span style="padding:0.5em; background-color:#fca205; color:black;">**[ &#9888; WIP ]**</span>
+<span style="padding:0.5em; background-color:orange; color:black;">**[ &#9888; WIP ]**</span>
 
 # Chi sono
-Ciao, sono Francesco, sono un programmatore junior che sta cercando un lavoro nell'industria dei (video)giochi.
+Ciao, sono Francesco, un programmatore junior che sta cercando un lavoro nell'industria dei (video)giochi.
 
 Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un gioco [piccolo] basato sul contare le pecore prima di addormentarsi.
 
@@ -30,15 +30,15 @@ Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare
 
 ### &emsp; Fight 4 Life
 
-~~![F4L screenshot](Images here)~~
+<img alt="F4L screenshot" src="./assets/images/screenshots/F4L-screen.jpg" width="47.5%">
+<img alt="F4L carousel (GIF)" src="./assets/images/screenshots/F4L-carousel.gif" width="47.5%">
 
 | Ruoli                    |
 |--------------------------|
 | Programmatore principale |
 | Game Designer            |
 
-_Fight 4 Life_ è un gioco survival indie in 2D dove la temperatura del sole è oltre le stelle e 4 personaggi si trovano intrappolati dentro una stazione della metro, mentre provano a trovare riparo dal calore.
-Il compito del giocatore è quello di tenerli in vita, dividere le risorse, esplorare nottetempo l'esterno di una stazione e lottare qualora fosse necessario.
+_Fight 4 Life_ è un gioco survival indie in 2D dove la temperatura del sole è oltre le stelle e 4 personaggi si trovano intrappolati dentro una stazione della metro, mentre provano a trovare riparo dal calore. Il compito del giocatore è quello di tenerli in vita, dividere le risorse, esplorare nottetempo l'esterno di una stazione e lottare qualora fosse necessario.
 
 **_Feature_**
 
@@ -56,27 +56,28 @@ Il compito del giocatore è quello di tenerli in vita, dividere le risorse, espl
 
 ### &emsp; Spaceships' Threat
 
-~~![ST screenshot](Images here)~~
+<img alt="ST screenshot" src="./assets/images/screenshots/ST-screen.JPG" width="47.5%">
+<img alt="ST carousel (GIF)" src="./assets/images/screenshots/ST-carousel.gif" width="47.5%">
 
 | Ruoli                    |
 |--------------------------|
 | Programmatore principale |
 | Game Designer            |
-| Artista                  |
+| Artista principale       |
 
 _Spaceships' Threat_ è un piccolo gioco arcade in 3D che si basa su azioni rapide e rigiocabilità. Giochi nei panni del cattivo, il quale vuole conquistare l'universo a tutti i costi distruggendo tutte le astronavi dei "buoni", raccogliere i loro Rottami e usarli per migliorare la sua astronave, per conquistare meglio l'intero universo!
 
 **_Feature_**
 
-- Un sistema di salvataggio (salva la quantità di valuta corrente e le opzioni)
-- Miglioramenti (Power-up) che verranno applicati all'astronave
+- Un sistema di salvataggio realizzato da sé (in cui salva la quantità di valuta corrente e le opzioni)
+- Miglioramenti (Power-up) che vengono applicati all'astronave
 - Rigiocabilità: sconfiggi "i buoni" per guadagnare più Rottami (la valuta) e potenzia la tua astronave per poterli sconfiggere meglio
 
 * * *
 
 ### &emsp; Going to Sleep
 
-~~![G2S screenshot](Images here)~~
+<!-- ~~![G2S screenshot](Images here)~~ -->
 
 Un piccolo gioco in sviluppo che si basa sul contare le pecore prima di addormentarsi, ispirato dall'atto del contare le pecore e dalla sua rappresentazione nei cartoni animati.
 
@@ -89,31 +90,39 @@ Un piccolo gioco in sviluppo che si basa sul contare le pecore prima di addormen
 
 &emsp; &emsp; <sup>(Nautilus Academy Copyright)</sup>
 
-### &ensp; _Glyph Seeker_
+### &ensp; _GlyphSeeker_
 
-~~![GlS screenshot](Images here)~~
+<img alt="GlS screenshot" src="./assets/images/screenshots/GlS-screen.jpg" width="47.5%">
+<img alt="GlS concept art" src="./assets/images/screenshots/GlS-concept-art.jpg" width="40%">
+
+<sup>(Sinistra: screenshot del gioco; Destra: concept art del gioco)</sup>
 
 | Ruoli         |
 |---------------|
 | Programmatore |
 | Game Designer |
 
-_Glyph Seeker_ è un gioco in 3D in prima persona dove il personaggio principale ha 4 tipi diversi di rune, ognuna con la sua abilità di tiro (in particolare: _Elettrica_, _Esplosiva_, _Scudo_ e _Smaterializzatore_). Lei dovrà usare le suddette rune per risolvere puzzle e farsi strada tra tutti i nemici che potrà incontrare.
+_GlyphSeeker_ è un gioco in 3D in prima persona dove il personaggio principale ha 4 tipi diversi di rune, ognuna con la sua abilità di tiro (in particolare: _Elettrica_, _Esplosiva_, _Scudo_ e _Smaterializzatore_). Lei dovrà usare le suddette rune per risolvere puzzle e farsi strada tra tutti i nemici che incontrerà.
 
-&ensp; &ensp; (Questo gioco è stato realizzato con altre persone mentre stavo studiando nell'accademia)
+&ensp; &ensp; (Questo gioco è stato realizzato con altre persone quando studiavo all'accademia)
 
 **_Feature_**
 
 - 4 tipi diversi di abilità di tiro (le rune)
     - Io ho lavorato principalmente sulla runa blu, lo Scudo, e mi sono offerto nel lavorare anche su quella viola, lo Smaterializzatore
-- Un sistema di salvataggio complesso, ma non implementato dato il poco tempo a disposizione
+- Un sistema di salvataggio complesso (è realizzato da sé, con crittografia inclusa), ma non implementato dato il poco tempo a disposizione
     - Il codice lo si può trovare [[Qui]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs)
 
 * * *
 
 ### &ensp; _Global Game Jam 2024_
 
-<!-- All of the ggj 2024 + 2023 -->
+- _Global Game Jam 2024_
+    - Ruolo/i: programmatore
+    - [[Link al gioco]](https://globalgamejam.org/games/2024/clowning-around-9 "Clowning Around")
+- _Global Game Jam 2023_
+    - Ruolo/i: programmatore principale, game designer
+    - [[Link al gioco]](https://v3.globalgamejam.org/2023/games/lost-seed-4 "The Lost Seed")
 
 <br>
 

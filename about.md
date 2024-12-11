@@ -32,8 +32,6 @@ elim{
 
 > [[ < Main portfolio ]](./) <span style="float: right;">[[Vers. ITA]](./ita_about)</span>
 
-<button onclick="/index.md">&rarr; Test &larr;</button>
-
 <!--<br>-->
 
 <!-- # ABOUT ME -->
