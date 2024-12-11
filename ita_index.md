@@ -3,6 +3,7 @@
 
 <br>
 
+<span style="padding:0.5em; background-color:#fca205; color:black;">**[ &#9888; WIP ]**</span>
 
 # Chi sono
 Ciao, sono Francesco, sono un programmatore junior che sta cercando un lavoro nell'industria dei (video)giochi.

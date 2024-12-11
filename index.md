@@ -4,6 +4,8 @@
 <br>
 
 
+<span style="padding:0.5em; background-color:#fca205; color:black;">**[ &#9888; WIP ]**</span>
+
 <!-- TODO: About me -->
 # About me 
 Hi, I'm Francesco, I'm a junior italian programmer looking for a job in the (video)game industry.
@@ -65,7 +67,7 @@ _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4
 |-----------------|
 | Main programmer |
 | Game Designer   |
-| Artist          |
+| Main Artist     |
 
 _Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability. You are the villain, who wants to conquer the universe by defeating all "good" spaceships, collects their Scraps and use them to upgrade their ship, so they can conquer better and stronger! 
 
