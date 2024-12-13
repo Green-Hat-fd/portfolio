@@ -6,7 +6,7 @@
 
 <span style="padding:0.5em; background-color:orange; color:black;">**[ &#9888; WIP ]**</span>
 
-<!-- TODO: About me -->
+
 # About me 
 Hi, I'm Francesco, I'm a junior italian programmer looking for a job in the (video)game industry.
 
@@ -81,7 +81,7 @@ _Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action
 
 ### &emsp; Going to Sleep
 
-<!-- TODO: G2S screen -->
+<!-- [ ]: G2S screen -->
 <!-- ~~![G2S screenshot](Images here)~~ -->
 
 A small game under development about counting sheep before sleeping, inspired by the act of sheep counting and the cartoon representation.

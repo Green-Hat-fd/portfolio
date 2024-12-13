@@ -4,6 +4,8 @@ elim{
 }
 </style>
 
+<span style="padding:0.5em; background-color:orange; color:black">**[ &#9888; WIP ]**</span>
+
 <!-- 
     [x]: a small history
         [x]: dove hai studiato
@@ -15,6 +17,10 @@ elim{
     [ ]: perchè fai questo? motivazioni, passioni...
         [ ]: includi anche i tuoi interessi
         - Puoi anche dire che ti metti a tradurre i testi di canzoni e dialoghi / oggetti, cercando di adattare al miglior dei modi (mantenendo la metrica per le canzoni e mantenendo lo spirito/battute originali nei dialoghi o oggetti)
+        [ ]: puoi anche mettere che ti interessa questo lavoro per questi motivi
+        - creatività / ispirazione
+        - raccontare storie + interagire con le persone
+        - unisce tutti i miei interessi: coding, art (inclusi sia artwork, animazione, ), suono, video e "ingegnosità" nelle meccaniche
 
     ## Nella bio allungata
     [ ]: giochi preferiti, stili/generi che ti interessano di più
@@ -35,26 +41,28 @@ elim{
 <!--<br>-->
 
 <!-- # ABOUT ME -->
-<h1 style="text-align: center;">About me</h1>
+<h1 style="text-align:center;">About me</h1>
 
 <!-- FIXME: small bio -->
 Hi, I'm Francesco, I'm a junior italian programmer who's just finished his studies and who's now looking for a job in the (video)game industry.
-
-<elim>Other</elim>
 
 > Download my Resume/CV &ensp; [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
 
 
 ## Education background
 
-I began studying STEM at the Scientific High School (Liceo Scientifico) in my home town, which I graduated from in 2021. From there, I studied Game Development (Programming & Design) at the Nautilus Academy, from which I earned my _Professional & Advanced Certificate_ in _Game Development_ (respectively, in 2023 and 2024).
+I began studying STEM at the Scientific High School (Liceo Scientifico) in my home town, which I graduated from in 2021.
+
+From there, I studied Game Development (Programming & Design) at the Nautilus Academy, from which I earned my _Professional & Advanced Certificate_ in _Game Development_ (respectively, in 2023 and 2024).
 
 
 ## Work & Skills
 
-Normal text.
+<elim>Other</elim>
 
 #### &emsp;&emsp; Programming Skills
+
+For programming, I learned C and C++ in high school, . Here are my skills organized 
 
 | Level          | Languages | Engines       |
 |----------------|-----------|---------------|
@@ -65,13 +73,22 @@ Normal text.
 ## Personal interests
 
 <!-- FIXME: expand -->
-My main interest are art and STEM subjects, more specifically pixel-art, math (mathemathics), physics and &ndash; of course &ndash; technology
+<!-- HACK: fix the spelling and how it's presented -->
+<elim>My main interest are art and STEM subjects, more specifically pixel-art, mathemathics and physics.</elim>
 
-<!-- BUG: normal text --> Normal text.
+I was interested in STEM from a young age, starting from somewhat complex machines made of cogs and other mechanical parts to small but challenging puzzle games and videogames.
+
+<!-- BUG: Normal text. --> Normal text.
 
 ### &emsp; Hobbies
 
-I usually translate some english text or songs in italian in my free time, staying inside the rhythm and trying to maintain the original meaning at the same time.
-<!-- ti metti a tradurre i testi di canzoni e dialoghi / oggetti, cercando di adattare al miglior dei modi (mantenendo la metrica per le canzoni e mantenendo lo spirito/battute originali nei dialoghi o oggetti) -->
+Art is always been an hobby of mine, especially pixel-art <!-- ___ -->.
 
-Art is always been an hobby of mine, especially pixel-art
+I usually <!-- ___ --> translate some english text or songs in italian in my free time, keep with the prosody/metre while trying to maintain the original meaning at the same time.
+
+<!-- FIXME: rename -->
+### &emsp; Favourite gamesssss
+
+<elim>
+Normal text
+</elim>
