@@ -1,5 +1,6 @@
+<link href="./other/styles.css" rel="stylesheet"></link>
 
-<span style="float:right;">[[ English versione here ]](./)</span>
+<right-text>[[ English versione here ]](./)</right-text>
 
 <br>
 

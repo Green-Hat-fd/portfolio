@@ -1,10 +1,6 @@
-<style>
-elim{
-    background-color: darkred;
-}
-</style>
+<link href="./other/styles.css" rel="stylesheet"></link>
 
-<span style="padding:0.5em; background-color:orange; color:black">**[ &#9888; WIP ]**</span>
+<wip-panel>**[ &#9888; WIP ]**</wip-panel>
 
 <!-- 
     [x]: a small history
@@ -15,7 +11,7 @@ elim{
         [ ]: programming skills
         [ ]: outwards skills (like drawing or puzzle solving(?))
     [ ]: perchè fai questo? motivazioni, passioni...
-        [ ]: includi anche i tuoi interessi
+        [x]: includi anche i tuoi interessi
         - Puoi anche dire che ti metti a tradurre i testi di canzoni e dialoghi / oggetti, cercando di adattare al miglior dei modi (mantenendo la metrica per le canzoni e mantenendo lo spirito/battute originali nei dialoghi o oggetti)
         [ ]: puoi anche mettere che ti interessa questo lavoro per questi motivi
         - creatività / ispirazione
@@ -36,7 +32,7 @@ elim{
         - Consider your audience
  -->
 
-> [[ < Main portfolio ]](./) <span style="float: right;">[[Vers. ITA]](./ita_about)</span>
+> [[ < Main portfolio ]](./) <right-text>[[Vers. ITA]](./ita_about)</right-text>
 
 <!--<br>-->
 
@@ -78,7 +74,26 @@ For programming, I learned C and C++ in high school, . Here are my skills organi
 
 I was interested in STEM from a young age, starting from somewhat complex machines made of cogs and other mechanical parts to small but challenging puzzle games and videogames.
 
-<!-- BUG: Normal text. --> Normal text.
+<!-- BUG: Normal text. -->
+Normal text.
+
+<!-- HACK: fix the writing -->
+I decided to start programming for videogames because <elim>-----</elim> and its a combination of all my favourite interests, which are:
+- Art and its many forms (digital artworks, animation, <elim>-----</elim>)
+- Music and SFX
+- Videos (mostly filmmaking principles)
+- UX (user experience, how users/players interact with your newly made world)
+- Last but not least, Coding/Programming, used to tell the computer how to behave
+<!-- puoi anche mettere che ti interessa questo lavoro per questi motivi
+1) creatività / ispirazione
+2) raccontare storie
+    + interagire con le persone
+3) unisce tutti i miei interessi:
+    coding,
+        art (inclusi sia artwork, animazione),
+        suono,
+        video
+        e "ingegnosità" nelle meccaniche -->
 
 ### &emsp; Hobbies
 
@@ -87,7 +102,7 @@ Art is always been an hobby of mine, especially pixel-art <!-- ___ -->.
 I usually <!-- ___ --> translate some english text or songs in italian in my free time, keep with the prosody/metre while trying to maintain the original meaning at the same time.
 
 <!-- FIXME: rename -->
-### &emsp; Favourite gamesssss
+### &emsp; Games I like
 
 <elim>
 Normal text

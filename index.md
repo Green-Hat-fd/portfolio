@@ -1,10 +1,12 @@
+<link href="./other/styles.css" rel="stylesheet"></link>
 
-<span style="float:right;">[[ Versione Italiana qui ]](./ita_index)</span>
+
+<right-text>[[ Versione Italiana qui ]](./ita_index)</right-text>
 
 <br>
 
 
-<span style="padding:0.5em; background-color:orange; color:black;">**[ &#9888; WIP ]**</span>
+<wip-panel>**[ &#9888; WIP ]**</wip-panel>
 
 
 # About me 
