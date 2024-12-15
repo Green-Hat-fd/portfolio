@@ -1,4 +1,4 @@
-<link href="./other/styles.css" rel="stylesheet"></link>
+<link href="./other/styles.css" rel="stylesheet">
 
 <wip-panel>**[ &#9888; WIP ]**</wip-panel>
 
@@ -42,7 +42,7 @@
 <!-- FIXME: small bio -->
 Hi, I'm Francesco, I'm a junior italian programmer who's just finished his studies and who's now looking for a job in the (video)game industry.
 
-> Download my Resume/CV &ensp; [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
+> Download my Resume/CV: &ensp; [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
 
 
 ## Education background

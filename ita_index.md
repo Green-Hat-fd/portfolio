@@ -1,4 +1,4 @@
-<link href="./other/styles.css" rel="stylesheet"></link>
+<link href="./other/styles.css" rel="stylesheet">
 
 <right-text>[[ English versione here ]](./)</right-text>
 
