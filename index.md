@@ -1,12 +1,12 @@
 <link href="./other/styles.css" rel="stylesheet">
 
 
-<right-text>[[ Versione Italiana qui ]](./ita_index)</right-text>
+<right-text><a href="./ita_index">[ Versione Italiana qui ]</a></right-text>
 
 <br>
 
 
-<wip-panel>**[ &#9888; WIP ]**</wip-panel>
+<wip-panel>[ &#9888; WIP ]</wip-panel>
 
 
 # About me 

@@ -8,6 +8,7 @@ wip-panel{
     color: black;
     padding: 0.5em 0.65em;
     border-radius: 0.3em;
+    font-weight: bold;
 }
 
 right-text{

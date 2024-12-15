@@ -1,6 +1,6 @@
 <link href="./other/styles.css" rel="stylesheet">
 
-<wip-panel>**[ &#9888; WIP ]**</wip-panel>
+<wip-panel>[ &#9888; WIP ]</wip-panel>
 
 <!-- 
     [x]: a small history
@@ -32,7 +32,7 @@
         - Consider your audience
  -->
 
-> [[ < Main portfolio ]](./) <right-text>[[Vers. ITA]](./ita_about)</right-text>
+> [[ < Main portfolio ]](./) <right-text><a href="./ita_about">[Vers. ITA]</a></right-text>
 
 <!--<br>-->
 
