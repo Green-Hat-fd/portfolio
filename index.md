@@ -6,7 +6,7 @@
 <br>
 
 
-<wip-panel>[ &#9888; WIP ]</wip-panel>
+<!-- <wip-panel>[ &#9888; WIP ]</wip-panel> -->
 
 
 # About me 
@@ -49,9 +49,9 @@ _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4
 **_Feature(s)_**
 
 - A sliding minigame &ndash; the Minig-aim
-    - Used in a fight to defend against bad guys
+    - Used in fights to defend against bad guys
     - Every weapon type determines the style of sliding
-- All stations have different types of resources
+- Every station offers different types of resources
 - Adaptive music
     - Changes if a character is out exploring or not
     - Becomes more tense in fights
@@ -71,11 +71,11 @@ _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4
 | Game Designer   |
 | Main Artist     |
 
-_Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability. You are the villain, who wants to conquer the universe by defeating all spaceships of the  "good guys", collects their Scraps and use them to upgrade their ship, to conquer better and stronger! 
+_Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability. You are the villain, who wants to conquer the universe by defeating all spaceships of the  "good guys", collecting their Scraps and using them to upgrade the ship and conquer better and stronger! 
 
 **_Feature(s)_**
 
-- A self-made saving system (saves the current currency and options)
+- A self-made saving system (saves the current currency amount and options)
 - Power-ups that can be applied to the ship
 - Replayability: defeat "the good guys" to earn more Scraps (currency) and upgrade your ship to become better at defeating them
 
@@ -90,14 +90,14 @@ A small game under development about counting sheep before sleeping, inspired by
 
 **_Feature(s)_**
 
-- A sliding minigame with a cute sheep which will make the character fall asleep
+- A curved sliding minigame with a cute sheep, which will help the main character fall asleep
 
 * * *
 
 
 ## Academy work
 
-&emsp; &emsp; <sup>(Nautilus Academy Copyright)</sup>
+&emsp; &emsp; <sup>(All protected under the Nautilus Academy Copyright)</sup>
 
 ### &ensp; _GlyphSeeker_
 

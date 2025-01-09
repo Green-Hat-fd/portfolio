@@ -7,7 +7,7 @@
 # Chi sono
 Ciao, sono Francesco, un programmatore junior che sta cercando un lavoro nell'industria dei (video)giochi.
 
-Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un gioco [piccolo] basato sul contare le pecore prima di addormentarsi.
+Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un giochetto basato sul contare le pecore prima di addormentarsi.
 
 Pagina più estesa: [[Chi sono]](./ita_about "Vai alla pagina &quot;Chi sono&quot; &rarr;")
 
@@ -44,7 +44,7 @@ _Fight 4 Life_ è un gioco survival indie in 2D dove la temperatura del sole è 
 - Un minigame con una barra a scorrimento &ndash; il Mira-game
     - Usato nelle lotte per difenderti contro i brutti ceffi
     - Ogni arma determina lo stile di movimento della barra
-- In ogni stazione si trovano un tipo diverso di risorse
+- In ogni stazione si trovano diversi tipi di risorse
 - Musica dinamica
     - Cambia se c'è un personaggio in esplorazione o no
     - Diventa più intensa nelle lotte
@@ -64,11 +64,11 @@ _Fight 4 Life_ è un gioco survival indie in 2D dove la temperatura del sole è 
 | Game Designer            |
 | Artista principale       |
 
-_Spaceships' Threat_ è un piccolo gioco arcade in 3D che si basa su azioni rapide e rigiocabilità. Giochi nei panni del cattivo, il quale vuole conquistare l'universo a tutti i costi distruggendo tutte le astronavi dei "buoni", raccogliere i loro Rottami e usarli per migliorare la sua astronave, per conquistare meglio l'intero universo!
+_Spaceships' Threat_ è un piccolo gioco arcade in 3D che si basa su azioni rapide e sulla rigiocabilità. Ti trovi nei panni del cattivo, il quale vuole conquistare l'universo a tutti i costi, distruggendo tutte le astronavi dei "buoni", raccogliere i loro Rottami e usarli per migliorare la sua astronave per poter conquistare sempre di più!
 
 **_Feature_**
 
-- Un sistema di salvataggio realizzato da sé (in cui salva la quantità di valuta corrente e le opzioni)
+- Un sistema di salvataggio realizzato da sé (in cui salva la quantità di valuta e le opzioni presenti in quel momento)
 - Miglioramenti (Power-up) che vengono applicati all'astronave
 - Rigiocabilità: sconfiggi "i buoni" per guadagnare più Rottami (la valuta) e potenzia la tua astronave per poterli sconfiggere meglio
 
@@ -78,16 +78,16 @@ _Spaceships' Threat_ è un piccolo gioco arcade in 3D che si basa su azioni rapi
 
 <!-- ~~![G2S screenshot](Images here)~~ -->
 
-Un piccolo gioco in sviluppo che si basa sul contare le pecore prima di addormentarsi, ispirato dall'atto del contare le pecore e dalla sua rappresentazione nei cartoni animati.
+Un piccolo gioco in sviluppo che si basa sull'atto di contare le pecore prima di addormentarsi, ispirato dall'atto del contare le pecore e dalla sua rappresentazione nei cartoni animati.
 
 **_Feature_**
 
-- Un minigame con una barra scorrevole che ha una piccola pecora che aiuterà ad addormentare il personaggio principale
+- Un minigame con una barra scorrevole curva con una piccola pecora, la quale aiuterà il personaggio principale ad addormentarsi
 
 
 ## Lavoro in accademia
 
-&emsp; &emsp; <sup>(Nautilus Academy Copyright)</sup>
+&emsp; &emsp; <sup>(Tutto protetto da Nautilus Academy Copyright)</sup>
 
 ### &ensp; _GlyphSeeker_
 
@@ -110,7 +110,7 @@ _GlyphSeeker_ è un gioco in 3D in prima persona dove il personaggio principale 
 - 4 tipi diversi di abilità di tiro (le rune)
     - Io ho lavorato principalmente sulla runa blu, lo Scudo, e mi sono offerto nel lavorare anche su quella viola, lo Smaterializzatore
 - Un sistema di salvataggio complesso (è realizzato da sé, con crittografia inclusa), ma non implementato dato il poco tempo a disposizione
-    - Il codice lo si può trovare [[Qui]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs)
+    - Il codice lo si può trovare [[qui]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs)
 
 * * *
 

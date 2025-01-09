@@ -2,6 +2,10 @@
 elim{
     background-color: darkred;
 }
+elim--test{
+    background-color: darkred;
+    color: aliceblue;
+}
 
 wip-panel{
     background-color: orange;
