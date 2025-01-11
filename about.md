@@ -85,7 +85,7 @@ I was interested in STEM subjects from a young age, but mainly from somewhat com
 
 <!-- HACK: fix the writing -->
 <!-- BUG: expand -->
-From the last years of high school I began loving more maths and physics, how math is <elim>and how maths is an integral part of how the universe and the world itself works.</elim> <elim--test>test</elim--test>
+From the last years of high school I began loving more maths and physics, how math is <elim>and how maths is an integral part of how the universe and the world itself works.</elim>
 
 I decided to start programming for videogames because its a combination of all my favourite interests, which they are:
 
