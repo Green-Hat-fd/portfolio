@@ -100,7 +100,7 @@ Not only that, but it can also bring out the creativity and insipiration out of 
 
 ### &emsp; Hobbies
 
-Art is always been an hobby of mine, especially pixel-art, of which I can say <!-- I know a bit about it -->. You can find some of my art on my [Bluesky](https://hatmadeofgreen.bsky.social) or [Twitter](https://twitter.com/hatmadeofgreen) accounts
+Art is always been an hobby of mine, especially pixel-art, of which I can say <!-- I know a bit about it -->. You can find some of my art on my Straw.Page [Art page](https://greenhat.straw.page/myart), but also  on my [Bluesky](https://hatmadeofgreen.bsky.social) or [Twitter](https://twitter.com/hatmadeofgreen) accounts
 
 I usually enjoy to translate some English text or songs in Italian in my free time, keeping it up with the prosody/metre while trying to maintain the original meaning at the same time. <!-- Ho iniziato a farlo per __ --> I started doing this to better understand the English language and some music theory, and so it became a recurring hobby of mine.
 
