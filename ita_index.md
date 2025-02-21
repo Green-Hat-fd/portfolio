@@ -7,9 +7,7 @@
 # Chi sono
 Ciao, sono Francesco, un programmatore junior che sta cercando un lavoro nell'industria dei (video)giochi.
 
-Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un giochetto basato sul contare le pecore prima di addormentarsi.
-
-Pagina più estesa: [[Chi sono]](./ita_about "Vai alla pagina &quot;Chi sono&quot; &rarr;")
+Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un giochetto basato sul contare le pecore prima di addormentarsi. [[Altro&hellip;]](./ita_about "Vai alla pagina &quot;Chi sono&quot; &rarr;")
 
 
 Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio CV")

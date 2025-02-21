@@ -12,11 +12,11 @@
 # About me 
 Hi, I'm Francesco, I'm a junior italian programmer looking for a job in the (video)game industry.
 
-I've studied Game Development and Game design at the Nautilus Academy, now I'm developing _[Going to Sleep](#going-to-sleep)_, a small game about counting sheep before sleeping.
+I've studied Game Development and Game design at the Nautilus Academy, now I'm developing _[Going to Sleep](#going-to-sleep)_, a small game about counting sheep before sleeping. [[Read more&hellip;]](./about "Open the &quot;About me&quot; page &rarr;")
 
 <!-- Game Development and Game design, which  game development and game design -->
 
-More in-depth page: [[About me]](./about "Go to the &quot;About me&quot; page &rarr;")
+
 
 
 My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
