@@ -71,7 +71,7 @@ These are my programming skills, organized in a table
 | `Beginner`     | C++       | Unreal Engine |
 
 
-## Personal interests
+## Hobbies & Personal interests
 
 <!-- Ma basta parlare di tecnicismi, andiamo sui miei interessi! -->
 But enough talking of technical things, let's talk more about my interests!
@@ -98,20 +98,18 @@ My interest with coding <elim>verted</elim> onto videogames because they are a c
 
 Not only that, but it can very much bring out the creativity and inspiration to create stories, interact with people and sometime even reach their heart.
 
-### &emsp; Hobbies
-
-#### &emsp;&mdash; Art
+### &emsp; Art
 
 Art is always been an hobby of mine, from admiring art pieces at display at museums to animations and its principles. I also started experimenting with pixel-art when I was in middle school and messing around with Minecraft textures, from which I gained a lot of experience with it (and an editor's eye). Some of my late art can be found on my [Art page](https://greenhat.straw.page/myart) organized as an art portfolio (still a WIP), but also on my [Bluesky](https://hatmadeofgreen.bsky.social) account or [Twitter ("X")](https://twitter.com/hatmadeofgreen) account.
 
-#### &emsp;&mdash; Translations
+### &emsp; Translations
 
 Another passion of mine is translating some English text or songs in Italian (or vice-versa) in my free time, keeping it up with the prosody/metre while trying to maintain the original meaning at the same time. I've started doing this to improve my English skills while learning some music theory in the process... and just like that, it became a recurring hobby!
 
 
 ### &emsp; Other interests
 
-Another thing I'm keen on is Psychology, more like the study of the smallest detail of <elim>everything</elim> & the more intricate ways of _why_ things work the way they work. Sometimes even the reasons behind people choices and how <elim>---</elim>.
+Another thing I'm keen on is Psychology, because I absolutely adore to study even the smallest detail &_why_ things work the way they work. Sometimes even the reasons behind people choices and how <elim>---</elim>.
 
 <!-- Videomaking -->
 

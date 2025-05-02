@@ -38,7 +38,7 @@ Queste sono le mie abilità di programmazione, disposti in una tabellla
 | `Principiante` | C++    | Unreal Engine |
 
 
-## Interessi personali
+## Hobby & Interessi personali
 
 Ma basta parlare di tecnicismi, andiamo sui miei interessi!
 
@@ -64,13 +64,11 @@ Il mio interesse nei codici ha preso la direzione dei videogiochi perché sono u
 
 Non solo ciò, ma può far <elim>uscire</elim> la parte creativa e l'ispirazione nel creare le storie, interagire con le persone e a volte  <elim>Not only that, but it can very much bring out the creativity and insipiration to create stories, interact with people and sometime even reach their heart.</elim>
 
-### &emsp; Hobby
-
-#### &emsp;&mdash; Arte
+### &emsp; Arte
 
 Il disegno e l'Arte è sempre stato una mia passione, dall'ammirare dei pezzi d'arte in mostra in un museo fino all'animazione e i suoi principi. Ho anche iniziato a sperimentare disegnando pixel-art da quando ero alle scuole medie, soprattutto con le texture di Minecraft, e tutto ciò mi ha fatto guadagnare un sacco di esperienza (e occhio esperto). Alcuni dei miei ultimi pezzi si trovano nella mia [Pagina d'Arte](https://greenhat.straw.page/myart) organizzato come un portfolio artistico (ancora in lavorazione), ma anche sul mio account [Bluesky](https://hatmadeofgreen.bsky.social) o account [Twitter ("X")](https://twitter.com/hatmadeofgreen).
 
-#### &emsp;&mdash; Traduzioni (Adattamenti)
+### &emsp; Traduzioni (Adattamenti)
 
 Un'altra mia passione è quella di tradurre alcuni testi o canzoni dall'inglese all'italiano (o anche viceversa) nel mio tempo libero, mantenendo la metrica e il significato originale allo stesso tempo ---
 is translating some English text or songs in Italian (or vice-versa) in my free time, keeping it up with the prosody/metre while trying to maintain the original meaning at the same time. I've started doing this to improve my English skills while learning some music theory in the process... and just like that, it became a recurring hobby!

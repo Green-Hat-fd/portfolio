@@ -46,6 +46,8 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to downloa
 
 _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4 characters find themselves in a subway, trying to find safety from the heat. The player's job is to keep them alive, rationing all the resources, explore the outside of a station at night and fight if necessary.
 
+What started as a simple game written in C for the command console, it began as an idea that spiraled in this little game/side project made with a friend of mine!
+
 **_Feature(s)_**
 
 - A sliding minigame &ndash; the Minig-aim
