@@ -87,6 +87,60 @@ Un piccolo gioco in sviluppo che si basa sull'atto di contare le pecore prima di
 
 &emsp; &emsp; <sup>(Tutto protetto da Nautilus Academy Copyright)</sup>
 
+### &ensp; _Quiet puzzles_
+
+<!-- FIXME: QP screen -->
+~~![QP screenshot](Images here)~~
+<!--  <img alt="GlS screenshot" src="./assets/images/screenshots/GlS-screen.jpg" width="47.5%">  -->
+<!--  <img alt="GlS concept art" src="./assets/images/screenshots/GlS-concept-art.jpg" width="40%">  -->
+
+<!--<sup>(Left: game screenshot; Right: concept art of the game)</sup>-->
+
+
+| Ruoli              |
+|--------------------|
+| Programmatore      |
+| Game Designer      |
+| Artista principale |
+
+_Quiet Puzzles_ è la demo di un gioco puzzle-platformer in 3D in prima persona che utilizza 3 abilità principali. Vengono sbloccate per tutta la demo e il giocatore deve utilizzarle in un paio di puzzle.
+
+&ensp; &ensp; (Questo gioco è stato realizzato con l'aiuto di altre persone quando studiavo all'accademia)
+
+**_Feature_**
+
+- 3 diversi tipi di abilità (la "Mano", la "Pistola d'Acqua" e la "Bomba")
+    - Una ruota per le abilità su cui lavorato e sviluppato, nel quale le abilità ruotano, usando la rotellina del mouse per ciclare tra di esse
+
+### &ensp; _Walking the planks_
+
+<!-- FIXME: WtP screen -->
+~~![WtP screenshot](Images here)~~
+<!--  <img alt="GlS screenshot" src="./assets/images/screenshots/GlS-screen.jpg" width="47.5%">  -->
+<!--  <img alt="GlS concept art" src="./assets/images/screenshots/GlS-concept-art.jpg" width="40%">  -->
+
+<!--<sup>(Left: game screenshot; Right: concept art of the game)</sup>-->
+
+
+| Ruoli              |
+|--------------------|
+| Programmatore      |
+| Game Designer      |
+| Artista principale |
+
+_Walking the planks_ è la demo di un gioco platformer in 3D in prima persona con il tema dei pirati dove il personaggio principale deve attraversare diverse trappole e ostacoli. Con ciò, il giocatore deve utilizzare la sua pistola a pietra focaia per i puzzle e l'intero gioco.
+
+&ensp; &ensp; (Questo gioco è stato realizzato con l'aiuto di altre persone quando studiavo all'accademia)
+
+**_Feature_**
+
+- Una pistola sempre carica che può distruggere i bersagli e attivare alcuni interruttori
+- Due diversi tipi di pulsanti: uno a interruttore (che cambia <elim>rispetto</elim> al lato su cui rimane) e uno a pressione (il quale deve rimanere premuto per rimanere attivo)
+    - Entrambi sono basati sulla fisica (quindi o il giocatore o gli oggetti, come delle scatole, possono interagirvi)
+- Una botte ("botte ruzzolante") ispirata dai cartoni animati su cui il giocatore può salirci e rolotata 
+    - Quando ci si sale, il giocatore deve muoversi all'indietro per poter far rotolare la botte in avanti, e viceversa (seguendo come la fisica)
+- Una meccanica basata sul Rum che mostra delle piattaforme nascoste per un certo periodo di tempo quando bevuto
+
 ### &ensp; _GlyphSeeker_
 
 <img alt="GlS screenshot" src="./assets/images/screenshots/GlS-screen.jpg" width="47.5%">

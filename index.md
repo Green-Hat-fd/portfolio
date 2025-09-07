@@ -101,6 +101,60 @@ A small game under development about counting sheep before sleeping, inspired by
 
 &emsp; &emsp; <sup>(All protected under the Nautilus Academy Copyright)</sup>
 
+### &ensp; _Quiet puzzles_
+
+<!-- FIXME: QP screen -->
+~~![QP screenshot](Images here)~~
+<!--  <img alt="GlS screenshot" src="./assets/images/screenshots/GlS-screen.jpg" width="47.5%">  -->
+<!--  <img alt="GlS concept art" src="./assets/images/screenshots/GlS-concept-art.jpg" width="40%">  -->
+
+<!--<sup>(Left: game screenshot; Right: concept art of the game)</sup>-->
+
+
+| Roles         |
+|---------------|
+| Programmer    |
+| Game Designer |
+| Main Artist   |
+
+_Quiet Puzzles_ is a demo of a 3D first person puzzle-platformer game that uses 3 main abilities. They are slowly unlocked throughout the demo and the player has to use them in a couple of puzzles.
+
+&ensp; &ensp; (This game is a work made with the help of other people while I was studying in the Academy)
+
+**_Feature(s)_**
+
+- 3 different types of abilities (the "Hand", the "Water Gun" and the "Bomb")
+    - A wheel for the abilities I worked and developed, in which the abilites rotate, and it uses the mouse wheel to cycle between them
+
+### &ensp; _Walking the planks_
+
+<!-- FIXME: WtP screen -->
+~~![WtP screenshot](Images here)~~
+<!--  <img alt="GlS screenshot" src="./assets/images/screenshots/GlS-screen.jpg" width="47.5%">  -->
+<!--  <img alt="GlS concept art" src="./assets/images/screenshots/GlS-concept-art.jpg" width="40%">  -->
+
+<!--<sup>(Left: game screenshot; Right: concept art of the game)</sup>-->
+
+
+| Roles         |
+|---------------|
+| Programmer    |
+| Game Designer |
+| Main Artist   |
+
+_Walking the planks_ is a demo of a 3D first person platformer game developed with the theme of pirates, where the main character has to traverse various type of traps and obstables. With that, the player also uses his trusted flintlock pistol <!--pistola a pietra focaia--> to help themself throughout the puzzles and the whole game.
+
+&ensp; &ensp; (This game is a work made with the help of other people while I was studying in the Academy)
+
+**_Feature(s)_**
+
+- An always fully loaded gun that can destroy targets and activate some switches
+- Two different types of switches: a toggle one (that switches depending on which side is left on) and a pushable one (that needs to remain pushed to stay active)
+    - Both of them are physics based (so the player or objects, like boxes, can interact with them)
+- A rolling barrel inspired by cartoons that can be ridden 
+    - When ridden, the player needs to go backwards to make the barrel roll forward, and vice-versa (it follows how physics should work)
+- A Rum-based mechanic that shows some hidden platforms over a specific period of time when drank
+
 ### &ensp; _GlyphSeeker_
 
 <!-- FIXME: GlS screen -->
@@ -127,7 +181,7 @@ _GlyphSeeker_ is a 3D first person action game where the main character has 4 ty
 - A complex saving system (it was self-made, included with encryption), but not implemented due to the little time the team had
     - [[Here]](https://github.com/NautilusAcademy/GlyphSeeker/blob/Salvataggio_e_Opzioni/Proj_GlyphSeeker/Assets/Script/-Saves%20%2B%20Options/SaveManager.cs) is the code
 
-### _Other projects I've worked on_
+### _Other smaller projects I've worked on_
 
 - _Global Game Jam 2024_
     - Role(s): programmer
