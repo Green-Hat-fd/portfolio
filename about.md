@@ -43,7 +43,7 @@
 <h1 style="text-align:center;">About me</h1>
 
 <!-- FIXME: small bio -->
-Hi, I'm Francesco, I'm a junior italian programmer who just finished school and now looking for a job in the (video)game industry.
+Hi, I'm Francesco, I'm a junior italian programmer who has finished studying STEM and now I'm looking for a job in the (video)game industry.
 
 > Download my Resume/CV: &ensp; [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
 
@@ -53,6 +53,8 @@ Hi, I'm Francesco, I'm a junior italian programmer who just finished school and 
 I began studying STEM at the Scientific High School (Liceo Scientifico) in my home town, which I graduated from in 2021.
 
 From there, I chose to study Game Development (Programming & Design) at the Nautilus Academy, from where I earned my _Professional & Advanced Certificate_ in _Game Development_ (in 2023 and 2024, respectively).
+
+For now, I'm studying on my own and working on different projects (some solos & others in team) where more info are found on the [main page](./)
 
 
 ## Work & Skills
@@ -76,15 +78,15 @@ These are my programming skills, organized in a table
 <!-- Ma basta parlare di tecnicismi, andiamo sui miei interessi! -->
 But enough talking of technical things, let's talk more about my interests!
 
-I have a variety of interests and hobbies, but they can be boiled down in two main ones: **Art** and **STEM subjects**, or &ndash; more specifically &ndash;  pixel-art, mathematics and physics.
+My interests and hobbies varies, but two stand out from the rest: **Art** and **STEM subjects** &ndash; and to be more specific &ndash; pixel-art, maths and physics.
 
 ### &emsp; STEM subjects
 
-I was always interested in STEM subjects from a young age, <elim>and it got me interested in various things _____</elim> like complex machines (some can be "[Rude-Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine)" <!--Scambia con https://it.wikipedia.org/wiki/Macchina_di_Rube_Goldberg--> contraptions), mechanical parts that interact with one another (like how cogs work) and somewhat challenging puzzles.
+I was always interested in STEM subjects from a very young age, where starting building with LEGOs and playing Minecraft got me interested in engineering, that developed to take some interest in STEM subjects (such of like Maths, Physics, Computer Science...). But deep in my heart, the love with complicated systems never went away (such as "[Rude-Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine)" <!--Scambia con https://it.wikipedia.org/wiki/Macchina_di_Rube_Goldberg--> contraptions), mechanical parts that interact with one another (like how cogs work) and challenging puzzles.
 
-My programming love also began from a really young age, thanks to using command blocks in Minecraft &ndash; blocks that can handle a line of code inside and can create some complex machines or make some really cool things happen when they are put together.
+My programming love also began from a really young age, all thanks from using command blocks in Minecraft &ndash; as those are blocks that can handle a line of code inside of them and can make some really cool things happen when they are put together.
 
-All of that led me towards the Scientific High school, in which I chose the section with computer science, where I studied more on depth STEM subjects such as math, physics, chemistry/biology and &ndash; of course &ndash; computer science, where I coded small programs in C/C++ to understand better how computers work and "think". This was my very first experience with real programming and coding.
+All of that led me to study STEM subjects in the Scientific High school in my home city, in which I chose the section with computer science, where I studied more on depth STEM subjects such as math, physics, chemistry/biology and &ndash; of course &ndash; computer science, where I coded small programs in C/C++ to understand better how computers work and "think". This was my very first experience with real programming and coding.
 
 As I began the last years of high school, my love towards math and physics grew even more thanks they both connect with each other and the universe and the help of my teachers, and I still love them to this day.
 
@@ -98,13 +100,13 @@ My interest with coding <elim>verted</elim> onto videogames because they are a c
 
 Not only that, but it can very much bring out the creativity and inspiration to create stories, interact with people and sometime even reach their heart.
 
-### &emsp; Art
-
-Art is always been an hobby of mine, from admiring art pieces at display at museums to animations and its principles. I also started experimenting with pixel-art when I was in middle school and messing around with Minecraft textures, from which I gained a lot of experience with it (and an editor's eye). Some of my late art can be found on my [Art page](https://greenhat.straw.page/myart) organized as an art portfolio (still a WIP), but also on my [Bluesky](https://hatmadeofgreen.bsky.social) account or [Twitter ("X")](https://twitter.com/hatmadeofgreen) account.
-
 ### &emsp; Translations
 
 Another passion of mine is translating some English text or songs in Italian (or vice-versa) in my free time, keeping it up with the prosody/metre while trying to maintain the original meaning at the same time. I've started doing this to improve my English skills while learning some music theory in the process... and just like that, it became a recurring hobby!
+
+### &emsp; Art
+
+Art is always been an hobby of mine, from admiring art pieces at display at museums to animations and its principles. I also started experimenting with pixel-art when I was in middle school and messing around with Minecraft textures, from which I gained a lot of experience with it (and an editor's eye). Some of my late art can be found on my [Art page](https://greenhat.straw.page/myart) organized as an art portfolio (still a WIP), but also on my [Bluesky](https://hatmadeofgreen.bsky.social) account or [Twitter ("X")](https://twitter.com/hatmadeofgreen) account.
 
 
 ### &emsp; Other interests
