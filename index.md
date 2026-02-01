@@ -183,6 +183,9 @@ _GlyphSeeker_ is a 3D first person action game where the main character has 4 ty
 
 ### _Other smaller projects I've worked on_
 
+- _Global Game Jam 2026_
+    - Role(s): programmer, game designer
+    - [[Game link]](https://globalgamejam.org/games/2026/identity-seeker-9 "Identity-Seeker")
 - _Global Game Jam 2024_
     - Role(s): programmer
     - [[Game link]](https://globalgamejam.org/games/2024/clowning-around-9 "Clowning Around")

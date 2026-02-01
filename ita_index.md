@@ -166,8 +166,11 @@ _GlyphSeeker_ è un gioco in 3D in prima persona dove il personaggio principale 
 
 * * *
 
-### &ensp; _Global Game Jam 2024_
+### &ensp; _Altri piccoli progetti in cui ho lavorato_
 
+- _Global Game Jam 2026_
+    - Ruolo/i: programmatore, game designer
+    - [[Link al gioco]](https://globalgamejam.org/games/2026/identity-seeker-9 "Identity-Seeker")
 - _Global Game Jam 2024_
     - Ruolo/i: programmatore
     - [[Link al gioco]](https://globalgamejam.org/games/2024/clowning-around-9 "Clowning Around")
