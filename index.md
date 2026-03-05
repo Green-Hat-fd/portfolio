@@ -19,7 +19,7 @@ I've studied Game Development and Game design at the Nautilus Academy, now I'm d
 
 
 
-My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
+My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume_s.pdf "Click to download my Resume / CV") – <i style="color: AliceBlue">(full version on the bottom)</i>
 
 
 ### &ensp; Programming Skills
@@ -33,6 +33,25 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume.pdf "Click to downloa
 
 
 # Projects
+
+### &emsp; Yamigatari:FOR3ST
+
+<div style="display: flex; justify-content: flex-start; align-items: center; width: 100vw;">
+    <iframe width="500" height="300" src="https://www.youtube.com/embed/gNR3R6dprqY" title="YAMIGATARI: FOR3ST — Official Trailer (2D Psychological Horror Game)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen style="margin: 0.5em;"></iframe>
+    <iframe src="https://store.steampowered.com/widget/4025010/" title="The official Steam page of YAMIGATARI: FOR3ST" frameborder="0" width="646" height="190" style="scale: 1;"></iframe>
+    <!-- OG video: width="914" height="533" / OG Steam: width="646" height="190" -->
+</div>
+
+
+| Role                      |
+|---------------------------|
+| Main (Italian) Translator |
+
+`(Steam description)` _Yamigatari:FOR3ST_ is a 2D psychological horror game that tells the chilling story of a young girl trapped in a nightmare she cannot escape. What began as a peaceful retreat into nature quickly transforms into a desperate fight for survival when Nora discovers an entity stalking her through the trees. 
+
+**Note:** The director asked (on his Discord server) if there were any people who could help translating the game in another language, and I offered to help translating it into Italian.
+
+* * *
 
 ### &emsp; Fight 4 Life
 
@@ -200,4 +219,4 @@ _GlyphSeeker_ is a 3D first person action game where the main character has 4 ty
 
 > E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com "Click to email me!")
 
-> [[ Resume/CV ]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV")
+> [[ Resume/CV ]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV") <i style="color: AliceBlue">(full vers.)</i>

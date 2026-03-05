@@ -90,7 +90,7 @@ All of that led me to study STEM subjects in the Scientific High school in my ho
 
 As I began the last years of high school, my love towards math and physics grew even more thanks they both connect with each other and the universe and the help of my teachers, and I still love them to this day.
 
-My interest with coding <elim>verted</elim> onto videogames because they are a combination of all my favorite interests:
+My interest with coding started moving towards videogames and game design as it incorporates all my main interests, as they are:
 
 - Art and its many forms (including digital artworks, animation, etc);
 - Music and SFX, sound effects;
@@ -115,7 +115,7 @@ Another thing I'm keen on is Psychology, because I absolutely adore to study eve
 
 <!-- Videomaking -->
 
-<elim>Yet</elim> another interest is Philosophy, especially
+<!-- Philosophy <elim>Yet</elim> another interest is Philosophy, especially -->
 
 <elim>[still wip...]</elim>
 <!--

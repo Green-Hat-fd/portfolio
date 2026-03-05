@@ -54,7 +54,7 @@ Tutto ciò mi portò a scegliere il Liceo Scientifico, più nello specifico l'in
 
 Negli ultimi anni del liceo, il mio amore per la matematica e fisica iniziò a crescere sempre di più, alla loro connessione <elim>~~equivalente~~ e con l'universo</elim> alla e all'aiuto datomi dai miei professori e professoresse, un amore che ancora oggi non se n'è andato.
 
-Il mio interesse nei codici ha preso la direzione dei videogiochi perché sono una combinazione di tutti i miei interessi preferiti:
+Il mio interesse nello scrivere codici ha preso la direzione verso il game design e i videogiochi siccome comprendono tutti i miei interessi principali, ovvero:
 
 - Arte in tutte le sue forme (incluse le opere digitali, animazione, ecc.);
 - Musica e SFX, gli effetti sonori;

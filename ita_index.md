@@ -10,7 +10,7 @@ Ciao, sono Francesco, un programmatore junior che sta cercando un lavoro nell'in
 Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un giochetto basato sul contare le pecore prima di addormentarsi. [[Altro&hellip;]](./ita_about "Vai alla pagina &quot;Chi sono&quot; &rarr;")
 
 
-Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio CV")
+Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita_s.pdf "Clicca per scaricare il mio CV") – <i style="color: AliceBlue">(versione intera alla fine)</i>
 
 
 ### &ensp; Conoscenze di programmazione
@@ -24,6 +24,25 @@ Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare
 
 
 # Progetti
+
+### &emsp; Yamigatari:FOR3ST
+
+<div style="display: grid; justify-content: flex-start; align-items: center; width: stretch; background-color: none;">
+    <iframe width="500" height="300" src="https://www.youtube.com/embed/gNR3R6dprqY" title="YAMIGATARI: FOR3ST — Official Trailer (2D Psychological Horror Game)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen style="margin: 0.5em;"></iframe>
+    <iframe src="https://store.steampowered.com/widget/4025010/" title="The official Steam page of YAMIGATARI: FOR3ST" frameborder="0" height="190" style="width: stretch"></iframe>
+    <!-- OG video: width="914" height="533" / OG Steam: width="646" height="190" -->
+</div>
+
+
+| Ruolo                 |
+|-----------------------|
+| Traduttore principale |
+
+`(Descrizione di Steam)` _Yamigatari:FOR3ST_ è un gioco horror psicologico in 2D che racconta la raggelante storia di una giovane ragazza intrappolata in un incubo dal quale non riesce a scappare. Quello che è iniziato come un tranquillo ritiro nella natura si è subito trasformato in una disperata battaglia per la sopravvivenza quando Nora scopre che un'entità la sta perseguitando tra gli alberi. 
+
+**Nota:** Il direttore ha chiesto (nel suo server Discord) se ci fossero persone disposte a tradurre il gioco in altre lingue, e io mi sono offerto di aiutare a tradurlo in italiano.
+
+* * *
 
 ### &emsp; Fight 4 Life
 
@@ -185,4 +204,4 @@ _GlyphSeeker_ è un gioco in 3D in prima persona dove il personaggio principale 
 
 > E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com "Clicca per mandarmi un'email!")
 
-> [[ Curriculum / CV ]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio Curriculum (CV)")
+> [[ Curriculum / CV ]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio Curriculum (CV)") <i style="color: AliceBlue">(intero)</i>
