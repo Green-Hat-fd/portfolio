@@ -3,7 +3,7 @@
 
 <right-text><a href="./ita_index">[ Versione Italiana qui ]</a></right-text>
 
-<br></br>
+<br>
 
 
 <!-- <wip-panel>[ &#9888; WIP ]</wip-panel> -->
@@ -19,7 +19,7 @@ I've studied Game Development and Game design at the Nautilus Academy, now I'm d
 
 
 
-My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume_s.pdf "Click to download my Resume / CV") – <i style="color: LightBlue">(full version on the bottom)</i>
+My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume_s.pdf "Click to download my Resume / CV") – <i style="color: DeepSkyBlue">(full version on the bottom)</i>
 
 
 ### &ensp; Programming Skills
@@ -28,9 +28,8 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume_s.pdf "Click to downl
 |----------------|-----------|---------------|
 | `Intermediate` | C#        | Unity         |
 | `Beginner`     | C++       | Unreal Engine |
-<!--| `Beginner`     | GDScript  | Godot         |-->
 
-<br></br>
+<br>
 
 
 # Projects
@@ -230,11 +229,11 @@ _GlyphSeeker_ is a 3D first person action game where the main character has 4 ty
     - Role(s): main programmer, game designer
     - [[Game link]](https://v3.globalgamejam.org/2023/games/lost-seed-4 "The Lost Seed")
 
-<br></br>
+<br>
 
 
 ### Contacts
 
 > E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com "Click to email me!")
 
-> [[ Resume/CV ]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV") <i style="color: LightBlue">(full vers.)</i>
+> [[ Resume/CV ]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV") <i style="color: DeepSkyBlue">(full vers.)</i>

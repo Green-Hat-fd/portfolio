@@ -2,7 +2,7 @@
 
 <right-text><a href="./">[ English versione here ]</a></right-text>
 
-<br></br>
+<br>
 
 
 # Chi sono
@@ -11,7 +11,7 @@ Ciao, sono Francesco, un programmatore junior che sta cercando un lavoro nell'in
 Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un giochetto basato sul contare le pecore prima di addormentarsi. [[Altro&hellip;]](./ita_about "Vai alla pagina &quot;Chi sono&quot; &rarr;")
 
 
-Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita_s.pdf "Clicca per scaricare il mio CV") – <i style="color: LightBlue">(versione intera alla fine)</i>
+Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita_s.pdf "Clicca per scaricare il mio CV") – <i style="color: DeepSkyBlue">(versione intera alla fine)</i>
 
 
 ### &ensp; Conoscenze di programmazione
@@ -20,18 +20,17 @@ Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita_s.pdf "Clicca per scarica
 |----------------|--------|---------------|
 | `Intermedio`   | C#     | Unity         |
 | `Principiante` | C++    | Unreal Engine |
-<!--| `Beginner`     | GDScript  | Godot         |-->
 
-<br></br>
+<br>
 
 
 # Progetti
 
 ### &emsp; Yamigatari:FOR3ST
 
-<div style="display: grid; justify-content: flex-start; align-items: center; width: stretch; background-color: none;">
+<div style="display: flex; justify-content: flex-start; align-items: center; width: 100vw;">
     <iframe width="500" height="300" src="https://www.youtube.com/embed/gNR3R6dprqY" title="YAMIGATARI: FOR3ST — Official Trailer (2D Psychological Horror Game)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen style="margin: 0.5em;"></iframe>
-    <iframe src="https://store.steampowered.com/widget/4025010/" title="The official Steam page of YAMIGATARI: FOR3ST" frameborder="0" height="190" style="width: stretch"></iframe>
+    <iframe src="https://store.steampowered.com/widget/4025010/" title="The official Steam page of YAMIGATARI: FOR3ST" frameborder="0" width="646" height="190" style="scale: 1;"></iframe>
     <!-- OG video: width="914" height="533" / OG Steam: width="646" height="190" -->
 </div>
 
@@ -176,7 +175,7 @@ _Walking the planks_ è la demo di un gioco platformer in 3D in prima persona co
 - Una botte ("botte ruzzolante") ispirata dai cartoni animati su cui il giocatore può salirci e rolotata 
     - Quando ci si sale, il giocatore deve muoversi all'indietro per poter far rotolare la botte in avanti, e viceversa (seguendo come la fisica)
     > (Creato usando il Prodotto Vettoriale tra la direzione di dove il giocatore sta guardando e la direzione "davanti" ("forward") del barile – limitando il movimento del giocatore per potersi muovere solo di lato, non avanti o indietro, quando si trova sopra il barile)
-- Due diversi tipi di pulsanti: uno a interruttore (che cambia <elim>rispetto</elim> al lato su cui rimane) e uno a pressione (il quale deve rimanere premuto per rimanere attivo)
+- Due diversi tipi di pulsanti: uno a interruttore (che rimane nell'ultima posizione in cui viene attivato) e uno a pressione (il quale deve rimanere premuto per rimanere attivo)
     - Entrambi sono basati sulla fisica (quindi o il giocatore o gli oggetti, come delle scatole, possono interagirvi)
 - Una meccanica basata sul Rum che mostra delle piattaforme nascoste per un certo periodo di tempo quando bevuto
 
@@ -217,11 +216,11 @@ _GlyphSeeker_ è un gioco in 3D in prima persona dove il personaggio principale 
     - Ruolo/i: programmatore principale, game designer
     - [[Link al gioco]](https://v3.globalgamejam.org/2023/games/lost-seed-4 "The Lost Seed")
 
-<br></br>
+<br>
 
 
 ### Contatti
 
 > E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com "Clicca per mandarmi un'email!")
 
-> [[ Curriculum / CV ]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio Curriculum (CV)") <i style="color: LightBlue">(intero)</i>
+> [[ Curriculum / CV ]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio Curriculum (CV)") <i style="color: DeepSkyBlue">(intero)</i>
