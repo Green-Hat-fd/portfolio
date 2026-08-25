@@ -2,7 +2,8 @@
 
 <right-text><a href="./">[ English versione here ]</a></right-text>
 
-<br>
+<br></br>
+
 
 # Chi sono
 Ciao, sono Francesco, un programmatore junior che sta cercando un lavoro nell'industria dei (video)giochi.
@@ -10,7 +11,7 @@ Ciao, sono Francesco, un programmatore junior che sta cercando un lavoro nell'in
 Ho studiato Game Development & Game design alla Nautilus Academy, mentre ora sto lavorando a _[Going to Sleep](#going-to-sleep)_, un giochetto basato sul contare le pecore prima di addormentarsi. [[Altro&hellip;]](./ita_about "Vai alla pagina &quot;Chi sono&quot; &rarr;")
 
 
-Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita_s.pdf "Clicca per scaricare il mio CV") – <i style="color: AliceBlue">(versione intera alla fine)</i>
+Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita_s.pdf "Clicca per scaricare il mio CV") – <i style="color: LightBlue">(versione intera alla fine)</i>
 
 
 ### &ensp; Conoscenze di programmazione
@@ -19,8 +20,9 @@ Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita_s.pdf "Clicca per scarica
 |----------------|--------|---------------|
 | `Intermedio`   | C#     | Unity         |
 | `Principiante` | C++    | Unreal Engine |
+<!--| `Beginner`     | GDScript  | Godot         |-->
 
-<br>
+<br></br>
 
 
 # Progetti
@@ -56,7 +58,16 @@ Il mio CV: [[qui]](./assets/pdf/francesco_degno_cv_ita_s.pdf "Clicca per scarica
 
 _Fight 4 Life_ è un gioco survival indie in 2D dove la temperatura del sole è oltre le stelle e 4 personaggi si trovano intrappolati dentro una stazione della metro, mentre provano a trovare riparo dal calore. Il compito del giocatore è quello di tenerli in vita, dividere le risorse, esplorare nottetempo l'esterno di una stazione e lottare qualora fosse necessario.
 
-**_Feature_**
+Ciò che iniziò come un piccolo gioco scritto in `C` per la console dei comandi, iniziò come un idea che poi si è trasformata in questo piccolo gioco/progetto extra fatta con un'amica mia!
+
+**_Sfide_**
+
+- _Fight 4 Life_ è un gioco fatto in 3 mesi, con un'amica (io mi sono occupato del codice, lei dell'aspetto visivo, e entrambi abbiamo gestito il game design & bilanciamento)
+    - abbiamo provato a gestire il tempo completando il Game Design Document per la fine delle prime 2 settimane, finendo le meccaniche (e asset) più importanti per la metà del 2° mese, aggiungendole e rifinendole per la fine del 3° mese
+- Il gioco presenta il "Minig-aim", un minigioco con una barra a scorrimento, dove bisogna fermare la barra più al centro possibile, ma il movimento e la velocità della barra stessa dipende da quale arma hai trovato
+    - All'inizio, sembrava molto divertente ma mancavano ricompense, dunque abbiamo deciso di ricompensare il giocatore dando più risorse al quanto più la barra è vicina al centro
+
+<!--**_Feature_**
 
 - Un minigame con una barra a scorrimento &ndash; il Mira-game
     - Usato nelle lotte per difenderti contro i brutti ceffi
@@ -66,7 +77,7 @@ _Fight 4 Life_ è un gioco survival indie in 2D dove la temperatura del sole è 
     - Cambia se c'è un personaggio in esplorazione o no
     - Diventa più intensa nelle lotte
 - 2 lingue (italiano & inglese)
-- 2 finali
+- 2 finali-->
 
 * * *
 
@@ -83,11 +94,18 @@ _Fight 4 Life_ è un gioco survival indie in 2D dove la temperatura del sole è 
 
 _Spaceships' Threat_ è un piccolo gioco arcade in 3D che si basa su azioni rapide e sulla rigiocabilità. Ti trovi nei panni del cattivo, il quale vuole conquistare l'universo a tutti i costi, distruggendo tutte le astronavi dei "buoni", raccogliere i loro Rottami e usarli per migliorare la sua astronave per poter conquistare sempre di più!
 
-**_Feature_**
+**Challenge(s)_**
+
+- _Spaceships' Threat_ ha un semplice ma intricato sistema di salvataggio, il quale salva parti importanti (come la valuta corrente, miglioramenti sbloccati e impostazioni presenti in quel momento) partendo inizialmente da variabili tenute in uno Scriptable Object (e dunque accessibile e editabile da qualsiasi parte del gioco), per poi scriverle tutte in un file nel pc
+    - (Devo dire che sono molto fiero di come ho fatto questo sistema di salvataggio)
+- Un aspetto importante di questo gioco è la _rigiocabilità_: per ottenere questo aspetto, ho reso i Rottami (la valuta del gioco) in modo "persistente", ovvero che vengono aggiunti a quelli guadagnati prima ad ogni Game Over
+    - Aggiungendo anche i Miglioramenti (Power-up), l'aspetto di rigiocabilità è aumentato - avendo anche preso ispirazione da alcuni giochi arcade + dei factory game usciti di recente (che ti fanno migliorare col tempo mentre ti fanno guadagnare più valuta di gioco)
+
+<!--**_Feature_**
 
 - Un sistema di salvataggio realizzato da sé (in cui salva la quantità di valuta e le opzioni presenti in quel momento)
 - Miglioramenti (Power-up) che vengono applicati all'astronave
-- Rigiocabilità: sconfiggi "i buoni" per guadagnare più Rottami (la valuta) e potenzia la tua astronave per poterli sconfiggere meglio
+- Rigiocabilità: sconfiggi "i buoni" per guadagnare più Rottami (la valuta) e potenzia la tua astronave per poterli sconfiggere meglio-->
 
 * * *
 
@@ -97,9 +115,10 @@ _Spaceships' Threat_ è un piccolo gioco arcade in 3D che si basa su azioni rapi
 
 Un piccolo gioco in sviluppo che si basa sull'atto di contare le pecore prima di addormentarsi, ispirato dall'atto del contare le pecore e dalla sua rappresentazione nei cartoni animati.
 
-**_Feature_**
+**_Sfide_**
 
 - Un minigame con una barra scorrevole curva con una piccola pecora, la quale aiuterà il personaggio principale ad addormentarsi
+    - (lo stesso concept di quello trovato in _[Fight 4 Life](#fight-4-life)_)
 
 
 ## Lavoro in accademia
@@ -126,7 +145,7 @@ _Quiet Puzzles_ è la demo di un gioco puzzle-platformer in 3D in prima persona 
 
 &ensp; &ensp; (Questo gioco è stato realizzato con l'aiuto di altre persone quando studiavo all'accademia)
 
-**_Feature_**
+**_Sfide_**
 
 - 3 diversi tipi di abilità (la "Mano", la "Pistola d'Acqua" e la "Bomba")
     - Una ruota per le abilità su cui lavorato e sviluppato, nel quale le abilità ruotano, usando la rotellina del mouse per ciclare tra di esse
@@ -151,13 +170,14 @@ _Walking the planks_ è la demo di un gioco platformer in 3D in prima persona co
 
 &ensp; &ensp; (Questo gioco è stato realizzato con l'aiuto di altre persone quando studiavo all'accademia)
 
-**_Feature_**
+**_Sfide_**
 
 - Una pistola sempre carica che può distruggere i bersagli e attivare alcuni interruttori
-- Due diversi tipi di pulsanti: uno a interruttore (che cambia <elim>rispetto</elim> al lato su cui rimane) e uno a pressione (il quale deve rimanere premuto per rimanere attivo)
-    - Entrambi sono basati sulla fisica (quindi o il giocatore o gli oggetti, come delle scatole, possono interagirvi)
 - Una botte ("botte ruzzolante") ispirata dai cartoni animati su cui il giocatore può salirci e rolotata 
     - Quando ci si sale, il giocatore deve muoversi all'indietro per poter far rotolare la botte in avanti, e viceversa (seguendo come la fisica)
+    > (Creato usando il Prodotto Vettoriale tra la direzione di dove il giocatore sta guardando e la direzione "davanti" ("forward") del barile – limitando il movimento del giocatore per potersi muovere solo di lato, non avanti o indietro, quando si trova sopra il barile)
+- Due diversi tipi di pulsanti: uno a interruttore (che cambia <elim>rispetto</elim> al lato su cui rimane) e uno a pressione (il quale deve rimanere premuto per rimanere attivo)
+    - Entrambi sono basati sulla fisica (quindi o il giocatore o gli oggetti, come delle scatole, possono interagirvi)
 - Una meccanica basata sul Rum che mostra delle piattaforme nascoste per un certo periodo di tempo quando bevuto
 
 ### &ensp; _GlyphSeeker_
@@ -176,7 +196,7 @@ _GlyphSeeker_ è un gioco in 3D in prima persona dove il personaggio principale 
 
 &ensp; &ensp; (Questo gioco è stato realizzato con altre persone quando studiavo all'accademia)
 
-**_Feature_**
+**_Sfide_**
 
 - 4 tipi diversi di abilità di tiro (le rune)
     - Io ho lavorato principalmente sulla runa blu, lo Scudo, e mi sono offerto nel lavorare anche su quella viola, lo Smaterializzatore
@@ -197,11 +217,11 @@ _GlyphSeeker_ è un gioco in 3D in prima persona dove il personaggio principale 
     - Ruolo/i: programmatore principale, game designer
     - [[Link al gioco]](https://v3.globalgamejam.org/2023/games/lost-seed-4 "The Lost Seed")
 
-<br>
+<br></br>
 
 
 ### Contatti
 
 > E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com "Clicca per mandarmi un'email!")
 
-> [[ Curriculum / CV ]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio Curriculum (CV)") <i style="color: AliceBlue">(intero)</i>
+> [[ Curriculum / CV ]](./assets/pdf/francesco_degno_cv_ita.pdf "Clicca per scaricare il mio Curriculum (CV)") <i style="color: LightBlue">(intero)</i>

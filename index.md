@@ -3,7 +3,7 @@
 
 <right-text><a href="./ita_index">[ Versione Italiana qui ]</a></right-text>
 
-<br>
+<br></br>
 
 
 <!-- <wip-panel>[ &#9888; WIP ]</wip-panel> -->
@@ -19,7 +19,7 @@ I've studied Game Development and Game design at the Nautilus Academy, now I'm d
 
 
 
-My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume_s.pdf "Click to download my Resume / CV") – <i style="color: AliceBlue">(full version on the bottom)</i>
+My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume_s.pdf "Click to download my Resume / CV") – <i style="color: LightBlue">(full version on the bottom)</i>
 
 
 ### &ensp; Programming Skills
@@ -28,8 +28,9 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume_s.pdf "Click to downl
 |----------------|-----------|---------------|
 | `Intermediate` | C#        | Unity         |
 | `Beginner`     | C++       | Unreal Engine |
+<!--| `Beginner`     | GDScript  | Godot         |-->
 
-<br>
+<br></br>
 
 
 # Projects
@@ -65,9 +66,16 @@ My Resume/CV: [[here]](./assets/pdf/francesco_degno_resume_s.pdf "Click to downl
 
 _Fight 4 Life_ is a 2D survival indie game where the Sun is a deadly laser and 4 characters find themselves in a subway, trying to find safety from the heat. The player's job is to keep them alive, rationing all the resources, explore the outside of a station at night and fight if necessary.
 
-What started as a simple game written in C for the command console, it began as an idea that spiraled in this little game/side project made with a friend of mine!
+What started as a simple game written in `C` for the command console, it began as a game idea that spiraled in this little game/side project made with a friend of mine!
 
-**_Feature(s)_**
+**_Challenge(s)_**
+
+- _Fight 4 Life_ is a game made in 3 months, with a friend (I handled the coding part, my friend the visual aspect, and we both managed the game design & balancing)
+    - we tried managing the time by having the Game Design Document done by the end of the first 2 weeks, the most important mechanics and assets done by the half of the 2nd month, while adding and refining them towards the 3rd month
+- The game features the "Minig-aim", a minigame with a sliding bar, where you have to hit the bar as close to the center as possible, but the movement and the speed of the bar itself depends on which weapon you found
+    - At first, it felt really fun but lacked rewards, so we decided that it gives more resources on how close to the center you center
+
+<!--**_Feature(s)_**
 
 - A sliding minigame &ndash; the Minig-aim
     - Used in fights to defend against bad guys
@@ -77,7 +85,7 @@ What started as a simple game written in C for the command console, it began as 
     - Changes if a character is out exploring or not
     - Becomes more tense in fights
 - 2 languages (Italian & English)
-- 2 endings
+- 2 endings-->
 
 * * *
 
@@ -94,11 +102,19 @@ What started as a simple game written in C for the command console, it began as 
 
 _Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action and replayability. You are the villain, who wants to conquer the universe by defeating all spaceships of the  "good guys", collecting their Scraps and using them to upgrade the ship and conquer better and stronger! 
 
-**_Feature(s)_**
+**_Challenge(s)_**
+
+- _Spaceships' Threat_ has a simple but intricate save system, which saves important stuff (such as the current currency amount, unlocked power-ups and options) by first having these variables stored in a Scriptable Object (so accessible and editable anywhere in the game), and then writing all of that into a pc file
+    - (I am really proud of how this save system came out)
+- An important aspect of this game is the _replayability_: to achieve this feeling, I made the Scraps (the currency of this game) "persistent", meaning that they get added to the one already earned when getting a Game Over
+    - By also adding the Power-ups, the replayability aspect grew even more, since I took inspiration from older arcade games + recent factory games (that lets you get better over time while getting more currency)
+
+
+<!--**_Feature(s)_**
 
 - A self-made saving system (saves the current currency amount and options)
 - Power-ups that can be applied to the ship
-- Replayability: defeat "the good guys" to earn more Scraps (currency) and upgrade your ship to become better at defeating them
+- Replayability: defeat "the good guys" to earn more Scraps (currency) and upgrade your ship to become better at defeating them-->
 
 * * *
 
@@ -109,9 +125,10 @@ _Spaceships' Threat_ is a small arcade 3D videogame that is based on fast action
 
 A small game under development about counting sheep before sleeping, inspired by the act of sheep counting and the cartoon representation.
 
-**_Feature(s)_**
+**_Challenge(s)_**
 
 - A curved sliding minigame with a cute sheep, which will help the main character fall asleep
+    - (the same concept as the one in _[Fight 4 Life](#fight-4-life)_)
 
 * * *
 
@@ -140,10 +157,10 @@ _Quiet Puzzles_ is a demo of a 3D first person puzzle-platformer game that uses 
 
 &ensp; &ensp; (This game is a work made with the help of other people while I was studying in the Academy)
 
-**_Feature(s)_**
+**_Challenge(s)_**
 
 - 3 different types of abilities (the "Hand", the "Water Gun" and the "Bomb")
-    - A wheel for the abilities I worked and developed, in which the abilites rotate, and it uses the mouse wheel to cycle between them
+    - A wheel for the abilities I worked and developed, in which the abilites rotate as it uses the mouse wheel to cycle between them
 
 ### &ensp; _Walking the planks_
 
@@ -165,13 +182,14 @@ _Walking the planks_ is a demo of a 3D first person platformer game developed wi
 
 &ensp; &ensp; (This game is a work made with the help of other people while I was studying in the Academy)
 
-**_Feature(s)_**
+**_Challenges(s)_**
 
 - An always fully loaded gun that can destroy targets and activate some switches
-- Two different types of switches: a toggle one (that switches depending on which side is left on) and a pushable one (that needs to remain pushed to stay active)
-    - Both of them are physics based (so the player or objects, like boxes, can interact with them)
 - A rolling barrel inspired by cartoons that can be ridden 
     - When ridden, the player needs to go backwards to make the barrel roll forward, and vice-versa (it follows how physics should work)
+    > (Made using the Dot product between the direction where the player is looking and the "forward" direction of the barrel – limiting the movement of the player to move only sideways, and not forward or backwards, when on top of the barrel)
+- Two different types of switches: a toggle one (that switches depending on which side is left on) and a pushable one (that needs to remain pushed to stay active)
+    - Both of them are physics based (so the player or objects, like boxes, can interact with them)
 - A Rum-based mechanic that shows some hidden platforms over a specific period of time when drank
 
 ### &ensp; _GlyphSeeker_
@@ -193,7 +211,7 @@ _GlyphSeeker_ is a 3D first person action game where the main character has 4 ty
 
 &ensp; &ensp; (This game is a work made with other people while I was studying in the Academy)
 
-**_Feature(s)_**
+**_Challenge(s)_**
 
 - 4 different types of shooting abilities (runes)
     - I worked mainly on the blue one, the Shield, and offered to help on the purple one, the Dematerializer
@@ -212,11 +230,11 @@ _GlyphSeeker_ is a 3D first person action game where the main character has 4 ty
     - Role(s): main programmer, game designer
     - [[Game link]](https://v3.globalgamejam.org/2023/games/lost-seed-4 "The Lost Seed")
 
-<br>
+<br></br>
 
 
 ### Contacts
 
 > E-mail: [franc.degno@gmail.com](mailto:franc.degno@gmail.com "Click to email me!")
 
-> [[ Resume/CV ]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV") <i style="color: AliceBlue">(full vers.)</i>
+> [[ Resume/CV ]](./assets/pdf/francesco_degno_resume.pdf "Click to download my Resume / CV") <i style="color: LightBlue">(full vers.)</i>
